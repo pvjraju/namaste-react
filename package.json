@@ -4,6 +4,8 @@
   "description": "This is a practice application",
   "source": "App.js",
   "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {

@@ -1,3 +1,5 @@
+Episode 2:
+
 -> Bundler does the following:
         --minify the code
         --cache the code
@@ -78,3 +80,79 @@ to import react to the app
 
 
 ---All the above things are done automatically by create react-app command, but these are the different packages that are used internally, which makes the react app faster by doing bundling and caching and etc.
+
+
+
+Episode-3:Laying the foundation
+
+--> Adding custom scripts in package.json to have shortforms of the commands.
+       "scripts": {
+        "start": "parcel index.html --open",
+        "build": "parcel build index.html",
+        "test": "jest"
+    },
+    Next time to start the application we can run npm run start or npm start instead of npx parcel index.html(note: npm without run can only be used for start)
+
+React element => Object =>(when we render to DOM it becomes) HTML Element
+
+Code snippet:
+   const heading = React.createElement("h1", {id: "heading"}, "Hello World from React");
+   const root = ReactDOM.createRoot(document.getElementById("root"));
+   root.render(heading);
+
+render method will convert the heading object to HTML element and replace the root div content with it.
+
+JSX:(read more about it)
+  -> JSX  is not HTML in JS, it's like HTML and XML like syntax
+  -> JSX element => React Element => Object => HTML Element
+ const jsxHeading = <h1 id="Heading">Namste React using JSX</h1>
+
+ ->JSX code is transpiled before it reaches the JS Engine, This is orchestrated by Parcel -> Uses Babel to convert the JSX code to what React understands(React.createElement in this example)
+
+ -> The attributes of JSX uses camelCase.
+    const jsxHeading = <h1 className="Heading" tabIndex="5">Namste React using JSX</h1>  
+    //note:In HTML the attribute name in class, this is one such difference between JSX and HTML
+
+
+ -> Code which JS Engine can understand is EcmaScript(Javascript, JScript etc)
+
+
+
+React Components:
+  -> Class Based component -> Old way of doing
+  -> Functional component -> New way of doing
+
+React functional component: is just a function, which return JSX content
+
+const HeadingComponent = () => {
+   return <h1>I am an Functional Component</h1>
+}
+
+-> Component variable name should always start with capital letter.
+
+//This is how we render a component.
+root.render(<HeadingComponent />)
+
+-> You can use one component within another component. (This is called Component composition.)
+JSX content in the end, is an React element (transpiled by Babel)
+
+->we can write any JavaScript inside these brackets within the JSX.
+-> So any function that returns a React element/JSX content is a functional component.
+const HeadingComponent = () => ( 
+<div id="container">
+  {
+    //we can write any JavaScript inside these brackets within the JSX.
+    <h1>{number * 4}</h1>
+  } 
+  {jsxHeading}
+ <Title />   
+<h1 className="HeadingComponent">
+    I am an Functional Component
+</h1> 
+</div>
+);
+
+-> So we can use react element inside the functional component and vice versa.
+-> JSX also protects from cross site scripting attack. By sanitizing the ReactElement content.
+-> React code is readable because of JSX
+-> We can use Java script within the JSX, because of Babel
