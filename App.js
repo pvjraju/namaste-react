@@ -2,58 +2,94 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 
-//React element => Object =>(when we render to DOM it becomes) HTML Element
 
-const heading = React.createElement("h1", 
-    {id: "heading"}, 
-    "Hello World from React");
+/**
+ * Header
+ *  -Logo
+ *  -Nav Items
+ * 
+ * Body
+ *  -Search
+ *  -Restuarant container
+ *    -Resturant card
+ * 
+ * Footer
+ *  -Copyright
+ *  -Links
+ *  -Address
+ *  -Contact
+ */
 
- console.log(heading);
- // JSX  is not HTML in JS, it's like HTML and XML like syntax
- //JSX element => React Element => Object => HTML Element
- const jsxHeading = <h1 className="Heading" tabIndex="5">
-    Namste React using JSX
-    Hello, do you fail or not.
-    </h1> 
- console.log(jsxHeading);
-
-// React functional component: is just a JS function, which return JSX content
-const Title = function () {
-    return(
-    <h1 className="Title" tabIndex="5" >
-        I am Title Component
-    </h1>
-  );
+const Header = () => {
+  return (
+    <div className="header">
+      <div className="logo-container">
+        <img className="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIPe_egHXbPZF5zsSDJCtBVu032nCKuV2jGDlWx3bLq3Puo47hZ8aWNacmV4Nohgumts&usqp=CAU" />
+      </div>
+      <div className="nav-items">
+        <ul>
+          <li>Home</li>
+          <li>About Us</li>
+          <li>Contact Us</li>
+          <li>Cart</li>
+        </ul>
+      </div>
+    </div>
+  )
 }
 
-const number = 10000;
 
-//Instead of using the function syntax we can just use arrow functions as industry standard. (lambda's in java 😂)
-const HeadingComponent = () => ( 
-<div id="container">
-  {
-    //we can write any JavaScript inside these brackets within the JSX.
-    <h1>{number * 4}</h1>
-  } 
-  {jsxHeading}
- <Title />   
- <Title></Title>
- {
- //Since Title functional component is nothing but a Javascript fucntion, we can simply use a funtional call   
- Title()
- }
-<h1 className="HeadingComponent">
-    I am an Functional Component
-</h1> 
-</div>
-);
-  
+const styleCard = {
+  backgroundColor: "#f0f0f0"
+}
+
+//This is a functional component.
+const RestuarantCard = (props) => {
+  const {resData} = props;
+
+  const {cloudinaryImageId, name, cuisines, avgRating, costForTwo, sla} = resData
+  return (
+    <div className="res-card" style={styleCard}>
+      <img 
+        className="res-logo"
+        src = {
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" + cloudinaryImageId }
+        alt="res-logo"
+      />
+      <h3>{name}</h3>
+      <h4>{cuisines.join(", ")}</h4>
+      <h4>{avgRating} Stars</h4>
+      <h4>{costForTwo}</h4>
+      <h5>{sla.deliveryTime} Minutes </h5>
+    </div>
+  )
+}
+
+const swiggyData = require('./swiggy_real_data_2.json');
+
+console.log(swiggyData);
+
+const Body = () => {
+  return (
+   <div className="body">
+    <div className="search">Search</div>
+    <div className="res-container">
+        {swiggyData.restaurants.splice(0,20).map((res) => {
+           return <RestuarantCard key={res.info.id} resData={res.info} />
+        })}
+    </div>
+   </div>
+  )
+}
+
+const AppLayout = () => {
+  return (
+      <div className="app">
+        <Header />
+        <Body />
+      </div>
+  )
+}
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
-//root.render(jsxHeading);
-
-//This is how we render a component.
-//Based on the <>, babel understands that this is a component and transpiles the code accordingly, 
-// root.render then converts the babel's output to HTML element and pass it to the browser.
-root.render(<HeadingComponent />)
+root.render(<AppLayout />)

@@ -1,0 +1,3010 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "The Spice Garden",
+      "cloudinaryImageId": "restaurant_1_image",
+      "locality": "Locality 1",
+      "areaName": "Area 1",
+      "costForTwo": 835,
+      "cuisines": [
+        "Italian",
+        "Desserts"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 30,
+      "menu": [
+        {
+          "id": "101",
+          "name": "Dish 1A",
+          "price": 210,
+          "description": "Description for Dish 1A.",
+          "imageId": "dish_1_a_image"
+        },
+        {
+          "id": "102",
+          "name": "Dish 1B",
+          "price": 394,
+          "description": "Description for Dish 1B.",
+          "imageId": "dish_1_b_image"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dragon's Wok",
+      "cloudinaryImageId": "restaurant_2_image",
+      "locality": "Locality 2",
+      "areaName": "Area 2",
+      "costForTwo": 615,
+      "cuisines": [
+        "Chinese",
+        "Tandoori"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 52,
+      "menu": [
+        {
+          "id": "201",
+          "name": "Dish 2A",
+          "price": 388,
+          "description": "Description for Dish 2A.",
+          "imageId": "dish_2_a_image"
+        },
+        {
+          "id": "202",
+          "name": "Dish 2B",
+          "price": 346,
+          "description": "Description for Dish 2B.",
+          "imageId": "dish_2_b_image"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Taco Fiesta",
+      "cloudinaryImageId": "restaurant_3_image",
+      "locality": "Locality 3",
+      "areaName": "Area 3",
+      "costForTwo": 1000,
+      "cuisines": [
+        "Mexican",
+        "Pizza"
+      ],
+      "rating": "3.6",
+      "deliveryTime": 45,
+      "menu": [
+        {
+          "id": "301",
+          "name": "Dish 3A",
+          "price": 123,
+          "description": "Description for Dish 3A.",
+          "imageId": "dish_3_a_image"
+        },
+        {
+          "id": "302",
+          "name": "Dish 3B",
+          "price": 502,
+          "description": "Description for Dish 3B.",
+          "imageId": "dish_3_b_image"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "The Curry House",
+      "cloudinaryImageId": "restaurant_4_image",
+      "locality": "Locality 4",
+      "areaName": "Area 4",
+      "costForTwo": 290,
+      "cuisines": [
+        "Tandoori",
+        "Italian"
+      ],
+      "rating": "3.3",
+      "deliveryTime": 23,
+      "menu": [
+        {
+          "id": "401",
+          "name": "Dish 4A",
+          "price": 412,
+          "description": "Description for Dish 4A.",
+          "imageId": "dish_4_a_image"
+        },
+        {
+          "id": "402",
+          "name": "Dish 4B",
+          "price": 525,
+          "description": "Description for Dish 4B.",
+          "imageId": "dish_4_b_image"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Pasta Paradise",
+      "cloudinaryImageId": "restaurant_5_image",
+      "locality": "Locality 5",
+      "areaName": "Area 5",
+      "costForTwo": 1199,
+      "cuisines": [
+        "Pizza",
+        "Thai"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 44,
+      "menu": [
+        {
+          "id": "501",
+          "name": "Dish 5A",
+          "price": 220,
+          "description": "Description for Dish 5A.",
+          "imageId": "dish_5_a_image"
+        },
+        {
+          "id": "502",
+          "name": "Dish 5B",
+          "price": 266,
+          "description": "Description for Dish 5B.",
+          "imageId": "dish_5_b_image"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Golden Dynasty",
+      "cloudinaryImageId": "restaurant_6_image",
+      "locality": "Locality 6",
+      "areaName": "Area 6",
+      "costForTwo": 776,
+      "cuisines": [
+        "Chinese",
+        "Chinese"
+      ],
+      "rating": "4.6",
+      "deliveryTime": 49,
+      "menu": [
+        {
+          "id": "601",
+          "name": "Dish 6A",
+          "price": 130,
+          "description": "Description for Dish 6A.",
+          "imageId": "dish_6_a_image"
+        },
+        {
+          "id": "602",
+          "name": "Dish 6B",
+          "price": 264,
+          "description": "Description for Dish 6B.",
+          "imageId": "dish_6_b_image"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Sizzling Skillet",
+      "cloudinaryImageId": "restaurant_7_image",
+      "locality": "Locality 7",
+      "areaName": "Area 7",
+      "costForTwo": 881,
+      "cuisines": [
+        "Pizza",
+        "Mexican"
+      ],
+      "rating": "3.3",
+      "deliveryTime": 25,
+      "menu": [
+        {
+          "id": "701",
+          "name": "Dish 7A",
+          "price": 144,
+          "description": "Description for Dish 7A.",
+          "imageId": "dish_7_a_image"
+        },
+        {
+          "id": "702",
+          "name": "Dish 7B",
+          "price": 573,
+          "description": "Description for Dish 7B.",
+          "imageId": "dish_7_b_image"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Bangkok Street Kitchen",
+      "cloudinaryImageId": "restaurant_8_image",
+      "locality": "Locality 8",
+      "areaName": "Area 8",
+      "costForTwo": 487,
+      "cuisines": [
+        "Thai",
+        "Thai"
+      ],
+      "rating": "3.3",
+      "deliveryTime": 57,
+      "menu": [
+        {
+          "id": "801",
+          "name": "Dish 8A",
+          "price": 169,
+          "description": "Description for Dish 8A.",
+          "imageId": "dish_8_a_image"
+        },
+        {
+          "id": "802",
+          "name": "Dish 8B",
+          "price": 226,
+          "description": "Description for Dish 8B.",
+          "imageId": "dish_8_b_image"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Flavor Fusion",
+      "cloudinaryImageId": "restaurant_9_image",
+      "locality": "Locality 9",
+      "areaName": "Area 9",
+      "costForTwo": 714,
+      "cuisines": [
+        "Chinese",
+        "Tandoori"
+      ],
+      "rating": "4.6",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "901",
+          "name": "Dish 9A",
+          "price": 222,
+          "description": "Description for Dish 9A.",
+          "imageId": "dish_9_a_image"
+        },
+        {
+          "id": "902",
+          "name": "Dish 9B",
+          "price": 444,
+          "description": "Description for Dish 9B.",
+          "imageId": "dish_9_b_image"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Maharaja's Feast",
+      "cloudinaryImageId": "restaurant_10_image",
+      "locality": "Locality 10",
+      "areaName": "Area 10",
+      "costForTwo": 390,
+      "cuisines": [
+        "Mexican",
+        "Tandoori"
+      ],
+      "rating": "4.7",
+      "deliveryTime": 28,
+      "menu": [
+        {
+          "id": "1001",
+          "name": "Dish 10A",
+          "price": 291,
+          "description": "Description for Dish 10A.",
+          "imageId": "dish_10_a_image"
+        },
+        {
+          "id": "1002",
+          "name": "Dish 10B",
+          "price": 302,
+          "description": "Description for Dish 10B.",
+          "imageId": "dish_10_b_image"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Restaurant 11",
+      "cloudinaryImageId": "restaurant_11_image",
+      "locality": "Locality 11",
+      "areaName": "Area 11",
+      "costForTwo": 423,
+      "cuisines": [
+        "Chinese",
+        "Pizza"
+      ],
+      "rating": "4.8",
+      "deliveryTime": 48,
+      "menu": [
+        {
+          "id": "1101",
+          "name": "Dish 11A",
+          "price": 372,
+          "description": "Description for Dish 11A.",
+          "imageId": "dish_11_a_image"
+        },
+        {
+          "id": "1102",
+          "name": "Dish 11B",
+          "price": 174,
+          "description": "Description for Dish 11B.",
+          "imageId": "dish_11_b_image"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Restaurant 12",
+      "cloudinaryImageId": "restaurant_12_image",
+      "locality": "Locality 12",
+      "areaName": "Area 12",
+      "costForTwo": 622,
+      "cuisines": [
+        "Mexican",
+        "Tandoori"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 40,
+      "menu": [
+        {
+          "id": "1201",
+          "name": "Dish 12A",
+          "price": 470,
+          "description": "Description for Dish 12A.",
+          "imageId": "dish_12_a_image"
+        },
+        {
+          "id": "1202",
+          "name": "Dish 12B",
+          "price": 201,
+          "description": "Description for Dish 12B.",
+          "imageId": "dish_12_b_image"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Restaurant 13",
+      "cloudinaryImageId": "restaurant_13_image",
+      "locality": "Locality 13",
+      "areaName": "Area 13",
+      "costForTwo": 776,
+      "cuisines": [
+        "Desserts",
+        "Chinese"
+      ],
+      "rating": "4.1",
+      "deliveryTime": 27,
+      "menu": [
+        {
+          "id": "1301",
+          "name": "Dish 13A",
+          "price": 283,
+          "description": "Description for Dish 13A.",
+          "imageId": "dish_13_a_image"
+        },
+        {
+          "id": "1302",
+          "name": "Dish 13B",
+          "price": 165,
+          "description": "Description for Dish 13B.",
+          "imageId": "dish_13_b_image"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Restaurant 14",
+      "cloudinaryImageId": "restaurant_14_image",
+      "locality": "Locality 14",
+      "areaName": "Area 14",
+      "costForTwo": 610,
+      "cuisines": [
+        "Indian",
+        "Tandoori"
+      ],
+      "rating": "4.0",
+      "deliveryTime": 26,
+      "menu": [
+        {
+          "id": "1401",
+          "name": "Dish 14A",
+          "price": 286,
+          "description": "Description for Dish 14A.",
+          "imageId": "dish_14_a_image"
+        },
+        {
+          "id": "1402",
+          "name": "Dish 14B",
+          "price": 358,
+          "description": "Description for Dish 14B.",
+          "imageId": "dish_14_b_image"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Restaurant 15",
+      "cloudinaryImageId": "restaurant_15_image",
+      "locality": "Locality 15",
+      "areaName": "Area 15",
+      "costForTwo": 567,
+      "cuisines": [
+        "Tandoori",
+        "Desserts"
+      ],
+      "rating": "4.7",
+      "deliveryTime": 23,
+      "menu": [
+        {
+          "id": "1501",
+          "name": "Dish 15A",
+          "price": 441,
+          "description": "Description for Dish 15A.",
+          "imageId": "dish_15_a_image"
+        },
+        {
+          "id": "1502",
+          "name": "Dish 15B",
+          "price": 254,
+          "description": "Description for Dish 15B.",
+          "imageId": "dish_15_b_image"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Restaurant 16",
+      "cloudinaryImageId": "restaurant_16_image",
+      "locality": "Locality 16",
+      "areaName": "Area 16",
+      "costForTwo": 670,
+      "cuisines": [
+        "Indian",
+        "Italian"
+      ],
+      "rating": "5.0",
+      "deliveryTime": 48,
+      "menu": [
+        {
+          "id": "1601",
+          "name": "Dish 16A",
+          "price": 108,
+          "description": "Description for Dish 16A.",
+          "imageId": "dish_16_a_image"
+        },
+        {
+          "id": "1602",
+          "name": "Dish 16B",
+          "price": 488,
+          "description": "Description for Dish 16B.",
+          "imageId": "dish_16_b_image"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Restaurant 17",
+      "cloudinaryImageId": "restaurant_17_image",
+      "locality": "Locality 17",
+      "areaName": "Area 17",
+      "costForTwo": 961,
+      "cuisines": [
+        "Mexican",
+        "Indian"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 34,
+      "menu": [
+        {
+          "id": "1701",
+          "name": "Dish 17A",
+          "price": 481,
+          "description": "Description for Dish 17A.",
+          "imageId": "dish_17_a_image"
+        },
+        {
+          "id": "1702",
+          "name": "Dish 17B",
+          "price": 469,
+          "description": "Description for Dish 17B.",
+          "imageId": "dish_17_b_image"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Restaurant 18",
+      "cloudinaryImageId": "restaurant_18_image",
+      "locality": "Locality 18",
+      "areaName": "Area 18",
+      "costForTwo": 1187,
+      "cuisines": [
+        "Pizza",
+        "Pizza"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 30,
+      "menu": [
+        {
+          "id": "1801",
+          "name": "Dish 18A",
+          "price": 589,
+          "description": "Description for Dish 18A.",
+          "imageId": "dish_18_a_image"
+        },
+        {
+          "id": "1802",
+          "name": "Dish 18B",
+          "price": 215,
+          "description": "Description for Dish 18B.",
+          "imageId": "dish_18_b_image"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Restaurant 19",
+      "cloudinaryImageId": "restaurant_19_image",
+      "locality": "Locality 19",
+      "areaName": "Area 19",
+      "costForTwo": 797,
+      "cuisines": [
+        "Tandoori",
+        "Tandoori"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 23,
+      "menu": [
+        {
+          "id": "1901",
+          "name": "Dish 19A",
+          "price": 435,
+          "description": "Description for Dish 19A.",
+          "imageId": "dish_19_a_image"
+        },
+        {
+          "id": "1902",
+          "name": "Dish 19B",
+          "price": 561,
+          "description": "Description for Dish 19B.",
+          "imageId": "dish_19_b_image"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Restaurant 20",
+      "cloudinaryImageId": "restaurant_20_image",
+      "locality": "Locality 20",
+      "areaName": "Area 20",
+      "costForTwo": 640,
+      "cuisines": [
+        "Indian",
+        "Mexican"
+      ],
+      "rating": "3.7",
+      "deliveryTime": 49,
+      "menu": [
+        {
+          "id": "2001",
+          "name": "Dish 20A",
+          "price": 478,
+          "description": "Description for Dish 20A.",
+          "imageId": "dish_20_a_image"
+        },
+        {
+          "id": "2002",
+          "name": "Dish 20B",
+          "price": 223,
+          "description": "Description for Dish 20B.",
+          "imageId": "dish_20_b_image"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Restaurant 21",
+      "cloudinaryImageId": "restaurant_21_image",
+      "locality": "Locality 21",
+      "areaName": "Area 21",
+      "costForTwo": 1185,
+      "cuisines": [
+        "Thai",
+        "Chinese"
+      ],
+      "rating": "3.5",
+      "deliveryTime": 55,
+      "menu": [
+        {
+          "id": "2101",
+          "name": "Dish 21A",
+          "price": 126,
+          "description": "Description for Dish 21A.",
+          "imageId": "dish_21_a_image"
+        },
+        {
+          "id": "2102",
+          "name": "Dish 21B",
+          "price": 312,
+          "description": "Description for Dish 21B.",
+          "imageId": "dish_21_b_image"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Restaurant 22",
+      "cloudinaryImageId": "restaurant_22_image",
+      "locality": "Locality 22",
+      "areaName": "Area 22",
+      "costForTwo": 299,
+      "cuisines": [
+        "Indian",
+        "Mexican"
+      ],
+      "rating": "4.9",
+      "deliveryTime": 38,
+      "menu": [
+        {
+          "id": "2201",
+          "name": "Dish 22A",
+          "price": 559,
+          "description": "Description for Dish 22A.",
+          "imageId": "dish_22_a_image"
+        },
+        {
+          "id": "2202",
+          "name": "Dish 22B",
+          "price": 323,
+          "description": "Description for Dish 22B.",
+          "imageId": "dish_22_b_image"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Restaurant 23",
+      "cloudinaryImageId": "restaurant_23_image",
+      "locality": "Locality 23",
+      "areaName": "Area 23",
+      "costForTwo": 688,
+      "cuisines": [
+        "Pizza",
+        "Thai"
+      ],
+      "rating": "4.4",
+      "deliveryTime": 34,
+      "menu": [
+        {
+          "id": "2301",
+          "name": "Dish 23A",
+          "price": 306,
+          "description": "Description for Dish 23A.",
+          "imageId": "dish_23_a_image"
+        },
+        {
+          "id": "2302",
+          "name": "Dish 23B",
+          "price": 205,
+          "description": "Description for Dish 23B.",
+          "imageId": "dish_23_b_image"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Restaurant 24",
+      "cloudinaryImageId": "restaurant_24_image",
+      "locality": "Locality 24",
+      "areaName": "Area 24",
+      "costForTwo": 656,
+      "cuisines": [
+        "Pizza",
+        "Thai"
+      ],
+      "rating": "4.4",
+      "deliveryTime": 38,
+      "menu": [
+        {
+          "id": "2401",
+          "name": "Dish 24A",
+          "price": 309,
+          "description": "Description for Dish 24A.",
+          "imageId": "dish_24_a_image"
+        },
+        {
+          "id": "2402",
+          "name": "Dish 24B",
+          "price": 191,
+          "description": "Description for Dish 24B.",
+          "imageId": "dish_24_b_image"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Restaurant 25",
+      "cloudinaryImageId": "restaurant_25_image",
+      "locality": "Locality 25",
+      "areaName": "Area 25",
+      "costForTwo": 700,
+      "cuisines": [
+        "Desserts",
+        "Tandoori"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 25,
+      "menu": [
+        {
+          "id": "2501",
+          "name": "Dish 25A",
+          "price": 188,
+          "description": "Description for Dish 25A.",
+          "imageId": "dish_25_a_image"
+        },
+        {
+          "id": "2502",
+          "name": "Dish 25B",
+          "price": 433,
+          "description": "Description for Dish 25B.",
+          "imageId": "dish_25_b_image"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Restaurant 26",
+      "cloudinaryImageId": "restaurant_26_image",
+      "locality": "Locality 26",
+      "areaName": "Area 26",
+      "costForTwo": 679,
+      "cuisines": [
+        "Desserts",
+        "Italian"
+      ],
+      "rating": "4.1",
+      "deliveryTime": 59,
+      "menu": [
+        {
+          "id": "2601",
+          "name": "Dish 26A",
+          "price": 561,
+          "description": "Description for Dish 26A.",
+          "imageId": "dish_26_a_image"
+        },
+        {
+          "id": "2602",
+          "name": "Dish 26B",
+          "price": 338,
+          "description": "Description for Dish 26B.",
+          "imageId": "dish_26_b_image"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Restaurant 27",
+      "cloudinaryImageId": "restaurant_27_image",
+      "locality": "Locality 27",
+      "areaName": "Area 27",
+      "costForTwo": 405,
+      "cuisines": [
+        "Mexican",
+        "Pizza"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 43,
+      "menu": [
+        {
+          "id": "2701",
+          "name": "Dish 27A",
+          "price": 210,
+          "description": "Description for Dish 27A.",
+          "imageId": "dish_27_a_image"
+        },
+        {
+          "id": "2702",
+          "name": "Dish 27B",
+          "price": 404,
+          "description": "Description for Dish 27B.",
+          "imageId": "dish_27_b_image"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Restaurant 28",
+      "cloudinaryImageId": "restaurant_28_image",
+      "locality": "Locality 28",
+      "areaName": "Area 28",
+      "costForTwo": 528,
+      "cuisines": [
+        "Desserts",
+        "Mexican"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 41,
+      "menu": [
+        {
+          "id": "2801",
+          "name": "Dish 28A",
+          "price": 110,
+          "description": "Description for Dish 28A.",
+          "imageId": "dish_28_a_image"
+        },
+        {
+          "id": "2802",
+          "name": "Dish 28B",
+          "price": 102,
+          "description": "Description for Dish 28B.",
+          "imageId": "dish_28_b_image"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Restaurant 29",
+      "cloudinaryImageId": "restaurant_29_image",
+      "locality": "Locality 29",
+      "areaName": "Area 29",
+      "costForTwo": 395,
+      "cuisines": [
+        "Thai",
+        "Indian"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 58,
+      "menu": [
+        {
+          "id": "2901",
+          "name": "Dish 29A",
+          "price": 144,
+          "description": "Description for Dish 29A.",
+          "imageId": "dish_29_a_image"
+        },
+        {
+          "id": "2902",
+          "name": "Dish 29B",
+          "price": 300,
+          "description": "Description for Dish 29B.",
+          "imageId": "dish_29_b_image"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Restaurant 30",
+      "cloudinaryImageId": "restaurant_30_image",
+      "locality": "Locality 30",
+      "areaName": "Area 30",
+      "costForTwo": 792,
+      "cuisines": [
+        "Mexican",
+        "Tandoori"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 29,
+      "menu": [
+        {
+          "id": "3001",
+          "name": "Dish 30A",
+          "price": 351,
+          "description": "Description for Dish 30A.",
+          "imageId": "dish_30_a_image"
+        },
+        {
+          "id": "3002",
+          "name": "Dish 30B",
+          "price": 306,
+          "description": "Description for Dish 30B.",
+          "imageId": "dish_30_b_image"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Restaurant 31",
+      "cloudinaryImageId": "restaurant_31_image",
+      "locality": "Locality 31",
+      "areaName": "Area 31",
+      "costForTwo": 623,
+      "cuisines": [
+        "Italian",
+        "Mexican"
+      ],
+      "rating": "4.1",
+      "deliveryTime": 54,
+      "menu": [
+        {
+          "id": "3101",
+          "name": "Dish 31A",
+          "price": 112,
+          "description": "Description for Dish 31A.",
+          "imageId": "dish_31_a_image"
+        },
+        {
+          "id": "3102",
+          "name": "Dish 31B",
+          "price": 446,
+          "description": "Description for Dish 31B.",
+          "imageId": "dish_31_b_image"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Restaurant 32",
+      "cloudinaryImageId": "restaurant_32_image",
+      "locality": "Locality 32",
+      "areaName": "Area 32",
+      "costForTwo": 769,
+      "cuisines": [
+        "Mexican",
+        "Mexican"
+      ],
+      "rating": "3.1",
+      "deliveryTime": 52,
+      "menu": [
+        {
+          "id": "3201",
+          "name": "Dish 32A",
+          "price": 546,
+          "description": "Description for Dish 32A.",
+          "imageId": "dish_32_a_image"
+        },
+        {
+          "id": "3202",
+          "name": "Dish 32B",
+          "price": 304,
+          "description": "Description for Dish 32B.",
+          "imageId": "dish_32_b_image"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Restaurant 33",
+      "cloudinaryImageId": "restaurant_33_image",
+      "locality": "Locality 33",
+      "areaName": "Area 33",
+      "costForTwo": 759,
+      "cuisines": [
+        "Indian",
+        "Desserts"
+      ],
+      "rating": "4.4",
+      "deliveryTime": 25,
+      "menu": [
+        {
+          "id": "3301",
+          "name": "Dish 33A",
+          "price": 566,
+          "description": "Description for Dish 33A.",
+          "imageId": "dish_33_a_image"
+        },
+        {
+          "id": "3302",
+          "name": "Dish 33B",
+          "price": 412,
+          "description": "Description for Dish 33B.",
+          "imageId": "dish_33_b_image"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Restaurant 34",
+      "cloudinaryImageId": "restaurant_34_image",
+      "locality": "Locality 34",
+      "areaName": "Area 34",
+      "costForTwo": 994,
+      "cuisines": [
+        "Mexican",
+        "Tandoori"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 34,
+      "menu": [
+        {
+          "id": "3401",
+          "name": "Dish 34A",
+          "price": 512,
+          "description": "Description for Dish 34A.",
+          "imageId": "dish_34_a_image"
+        },
+        {
+          "id": "3402",
+          "name": "Dish 34B",
+          "price": 152,
+          "description": "Description for Dish 34B.",
+          "imageId": "dish_34_b_image"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Restaurant 35",
+      "cloudinaryImageId": "restaurant_35_image",
+      "locality": "Locality 35",
+      "areaName": "Area 35",
+      "costForTwo": 1078,
+      "cuisines": [
+        "Chinese",
+        "Chinese"
+      ],
+      "rating": "3.8",
+      "deliveryTime": 54,
+      "menu": [
+        {
+          "id": "3501",
+          "name": "Dish 35A",
+          "price": 563,
+          "description": "Description for Dish 35A.",
+          "imageId": "dish_35_a_image"
+        },
+        {
+          "id": "3502",
+          "name": "Dish 35B",
+          "price": 278,
+          "description": "Description for Dish 35B.",
+          "imageId": "dish_35_b_image"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Restaurant 36",
+      "cloudinaryImageId": "restaurant_36_image",
+      "locality": "Locality 36",
+      "areaName": "Area 36",
+      "costForTwo": 351,
+      "cuisines": [
+        "Chinese",
+        "Italian"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 45,
+      "menu": [
+        {
+          "id": "3601",
+          "name": "Dish 36A",
+          "price": 582,
+          "description": "Description for Dish 36A.",
+          "imageId": "dish_36_a_image"
+        },
+        {
+          "id": "3602",
+          "name": "Dish 36B",
+          "price": 567,
+          "description": "Description for Dish 36B.",
+          "imageId": "dish_36_b_image"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Restaurant 37",
+      "cloudinaryImageId": "restaurant_37_image",
+      "locality": "Locality 37",
+      "areaName": "Area 37",
+      "costForTwo": 1130,
+      "cuisines": [
+        "Tandoori",
+        "Desserts"
+      ],
+      "rating": "4.4",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "3701",
+          "name": "Dish 37A",
+          "price": 358,
+          "description": "Description for Dish 37A.",
+          "imageId": "dish_37_a_image"
+        },
+        {
+          "id": "3702",
+          "name": "Dish 37B",
+          "price": 285,
+          "description": "Description for Dish 37B.",
+          "imageId": "dish_37_b_image"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Restaurant 38",
+      "cloudinaryImageId": "restaurant_38_image",
+      "locality": "Locality 38",
+      "areaName": "Area 38",
+      "costForTwo": 520,
+      "cuisines": [
+        "Thai",
+        "Thai"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 39,
+      "menu": [
+        {
+          "id": "3801",
+          "name": "Dish 38A",
+          "price": 162,
+          "description": "Description for Dish 38A.",
+          "imageId": "dish_38_a_image"
+        },
+        {
+          "id": "3802",
+          "name": "Dish 38B",
+          "price": 443,
+          "description": "Description for Dish 38B.",
+          "imageId": "dish_38_b_image"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Restaurant 39",
+      "cloudinaryImageId": "restaurant_39_image",
+      "locality": "Locality 39",
+      "areaName": "Area 39",
+      "costForTwo": 384,
+      "cuisines": [
+        "Italian",
+        "Tandoori"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 21,
+      "menu": [
+        {
+          "id": "3901",
+          "name": "Dish 39A",
+          "price": 392,
+          "description": "Description for Dish 39A.",
+          "imageId": "dish_39_a_image"
+        },
+        {
+          "id": "3902",
+          "name": "Dish 39B",
+          "price": 438,
+          "description": "Description for Dish 39B.",
+          "imageId": "dish_39_b_image"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Restaurant 40",
+      "cloudinaryImageId": "restaurant_40_image",
+      "locality": "Locality 40",
+      "areaName": "Area 40",
+      "costForTwo": 856,
+      "cuisines": [
+        "Tandoori",
+        "Italian"
+      ],
+      "rating": "4.8",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "4001",
+          "name": "Dish 40A",
+          "price": 422,
+          "description": "Description for Dish 40A.",
+          "imageId": "dish_40_a_image"
+        },
+        {
+          "id": "4002",
+          "name": "Dish 40B",
+          "price": 199,
+          "description": "Description for Dish 40B.",
+          "imageId": "dish_40_b_image"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Restaurant 41",
+      "cloudinaryImageId": "restaurant_41_image",
+      "locality": "Locality 41",
+      "areaName": "Area 41",
+      "costForTwo": 763,
+      "cuisines": [
+        "Thai",
+        "Thai"
+      ],
+      "rating": "3.3",
+      "deliveryTime": 26,
+      "menu": [
+        {
+          "id": "4101",
+          "name": "Dish 41A",
+          "price": 225,
+          "description": "Description for Dish 41A.",
+          "imageId": "dish_41_a_image"
+        },
+        {
+          "id": "4102",
+          "name": "Dish 41B",
+          "price": 195,
+          "description": "Description for Dish 41B.",
+          "imageId": "dish_41_b_image"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Restaurant 42",
+      "cloudinaryImageId": "restaurant_42_image",
+      "locality": "Locality 42",
+      "areaName": "Area 42",
+      "costForTwo": 1085,
+      "cuisines": [
+        "Pizza",
+        "Desserts"
+      ],
+      "rating": "3.2",
+      "deliveryTime": 25,
+      "menu": [
+        {
+          "id": "4201",
+          "name": "Dish 42A",
+          "price": 553,
+          "description": "Description for Dish 42A.",
+          "imageId": "dish_42_a_image"
+        },
+        {
+          "id": "4202",
+          "name": "Dish 42B",
+          "price": 439,
+          "description": "Description for Dish 42B.",
+          "imageId": "dish_42_b_image"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Restaurant 43",
+      "cloudinaryImageId": "restaurant_43_image",
+      "locality": "Locality 43",
+      "areaName": "Area 43",
+      "costForTwo": 493,
+      "cuisines": [
+        "Pizza",
+        "Pizza"
+      ],
+      "rating": "3.8",
+      "deliveryTime": 32,
+      "menu": [
+        {
+          "id": "4301",
+          "name": "Dish 43A",
+          "price": 304,
+          "description": "Description for Dish 43A.",
+          "imageId": "dish_43_a_image"
+        },
+        {
+          "id": "4302",
+          "name": "Dish 43B",
+          "price": 422,
+          "description": "Description for Dish 43B.",
+          "imageId": "dish_43_b_image"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Restaurant 44",
+      "cloudinaryImageId": "restaurant_44_image",
+      "locality": "Locality 44",
+      "areaName": "Area 44",
+      "costForTwo": 586,
+      "cuisines": [
+        "Tandoori",
+        "Italian"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 24,
+      "menu": [
+        {
+          "id": "4401",
+          "name": "Dish 44A",
+          "price": 183,
+          "description": "Description for Dish 44A.",
+          "imageId": "dish_44_a_image"
+        },
+        {
+          "id": "4402",
+          "name": "Dish 44B",
+          "price": 327,
+          "description": "Description for Dish 44B.",
+          "imageId": "dish_44_b_image"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Restaurant 45",
+      "cloudinaryImageId": "restaurant_45_image",
+      "locality": "Locality 45",
+      "areaName": "Area 45",
+      "costForTwo": 400,
+      "cuisines": [
+        "Chinese",
+        "Tandoori"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 32,
+      "menu": [
+        {
+          "id": "4501",
+          "name": "Dish 45A",
+          "price": 395,
+          "description": "Description for Dish 45A.",
+          "imageId": "dish_45_a_image"
+        },
+        {
+          "id": "4502",
+          "name": "Dish 45B",
+          "price": 246,
+          "description": "Description for Dish 45B.",
+          "imageId": "dish_45_b_image"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Restaurant 46",
+      "cloudinaryImageId": "restaurant_46_image",
+      "locality": "Locality 46",
+      "areaName": "Area 46",
+      "costForTwo": 451,
+      "cuisines": [
+        "Italian",
+        "Tandoori"
+      ],
+      "rating": "4.7",
+      "deliveryTime": 57,
+      "menu": [
+        {
+          "id": "4601",
+          "name": "Dish 46A",
+          "price": 509,
+          "description": "Description for Dish 46A.",
+          "imageId": "dish_46_a_image"
+        },
+        {
+          "id": "4602",
+          "name": "Dish 46B",
+          "price": 326,
+          "description": "Description for Dish 46B.",
+          "imageId": "dish_46_b_image"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Restaurant 47",
+      "cloudinaryImageId": "restaurant_47_image",
+      "locality": "Locality 47",
+      "areaName": "Area 47",
+      "costForTwo": 414,
+      "cuisines": [
+        "Pizza",
+        "Mexican"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 48,
+      "menu": [
+        {
+          "id": "4701",
+          "name": "Dish 47A",
+          "price": 498,
+          "description": "Description for Dish 47A.",
+          "imageId": "dish_47_a_image"
+        },
+        {
+          "id": "4702",
+          "name": "Dish 47B",
+          "price": 594,
+          "description": "Description for Dish 47B.",
+          "imageId": "dish_47_b_image"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Restaurant 48",
+      "cloudinaryImageId": "restaurant_48_image",
+      "locality": "Locality 48",
+      "areaName": "Area 48",
+      "costForTwo": 252,
+      "cuisines": [
+        "Italian",
+        "Desserts"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 44,
+      "menu": [
+        {
+          "id": "4801",
+          "name": "Dish 48A",
+          "price": 126,
+          "description": "Description for Dish 48A.",
+          "imageId": "dish_48_a_image"
+        },
+        {
+          "id": "4802",
+          "name": "Dish 48B",
+          "price": 262,
+          "description": "Description for Dish 48B.",
+          "imageId": "dish_48_b_image"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Restaurant 49",
+      "cloudinaryImageId": "restaurant_49_image",
+      "locality": "Locality 49",
+      "areaName": "Area 49",
+      "costForTwo": 919,
+      "cuisines": [
+        "Chinese",
+        "Thai"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "4901",
+          "name": "Dish 49A",
+          "price": 453,
+          "description": "Description for Dish 49A.",
+          "imageId": "dish_49_a_image"
+        },
+        {
+          "id": "4902",
+          "name": "Dish 49B",
+          "price": 267,
+          "description": "Description for Dish 49B.",
+          "imageId": "dish_49_b_image"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Restaurant 50",
+      "cloudinaryImageId": "restaurant_50_image",
+      "locality": "Locality 50",
+      "areaName": "Area 50",
+      "costForTwo": 1094,
+      "cuisines": [
+        "Indian",
+        "Pizza"
+      ],
+      "rating": "3.1",
+      "deliveryTime": 21,
+      "menu": [
+        {
+          "id": "5001",
+          "name": "Dish 50A",
+          "price": 474,
+          "description": "Description for Dish 50A.",
+          "imageId": "dish_50_a_image"
+        },
+        {
+          "id": "5002",
+          "name": "Dish 50B",
+          "price": 272,
+          "description": "Description for Dish 50B.",
+          "imageId": "dish_50_b_image"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Restaurant 51",
+      "cloudinaryImageId": "restaurant_51_image",
+      "locality": "Locality 51",
+      "areaName": "Area 51",
+      "costForTwo": 585,
+      "cuisines": [
+        "Indian",
+        "Mexican"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "5101",
+          "name": "Dish 51A",
+          "price": 346,
+          "description": "Description for Dish 51A.",
+          "imageId": "dish_51_a_image"
+        },
+        {
+          "id": "5102",
+          "name": "Dish 51B",
+          "price": 336,
+          "description": "Description for Dish 51B.",
+          "imageId": "dish_51_b_image"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Restaurant 52",
+      "cloudinaryImageId": "restaurant_52_image",
+      "locality": "Locality 52",
+      "areaName": "Area 52",
+      "costForTwo": 457,
+      "cuisines": [
+        "Thai",
+        "Tandoori"
+      ],
+      "rating": "4.9",
+      "deliveryTime": 56,
+      "menu": [
+        {
+          "id": "5201",
+          "name": "Dish 52A",
+          "price": 220,
+          "description": "Description for Dish 52A.",
+          "imageId": "dish_52_a_image"
+        },
+        {
+          "id": "5202",
+          "name": "Dish 52B",
+          "price": 586,
+          "description": "Description for Dish 52B.",
+          "imageId": "dish_52_b_image"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Restaurant 53",
+      "cloudinaryImageId": "restaurant_53_image",
+      "locality": "Locality 53",
+      "areaName": "Area 53",
+      "costForTwo": 689,
+      "cuisines": [
+        "Thai",
+        "Desserts"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 28,
+      "menu": [
+        {
+          "id": "5301",
+          "name": "Dish 53A",
+          "price": 282,
+          "description": "Description for Dish 53A.",
+          "imageId": "dish_53_a_image"
+        },
+        {
+          "id": "5302",
+          "name": "Dish 53B",
+          "price": 253,
+          "description": "Description for Dish 53B.",
+          "imageId": "dish_53_b_image"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Restaurant 54",
+      "cloudinaryImageId": "restaurant_54_image",
+      "locality": "Locality 54",
+      "areaName": "Area 54",
+      "costForTwo": 346,
+      "cuisines": [
+        "Tandoori",
+        "Desserts"
+      ],
+      "rating": "4.3",
+      "deliveryTime": 28,
+      "menu": [
+        {
+          "id": "5401",
+          "name": "Dish 54A",
+          "price": 375,
+          "description": "Description for Dish 54A.",
+          "imageId": "dish_54_a_image"
+        },
+        {
+          "id": "5402",
+          "name": "Dish 54B",
+          "price": 589,
+          "description": "Description for Dish 54B.",
+          "imageId": "dish_54_b_image"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Restaurant 55",
+      "cloudinaryImageId": "restaurant_55_image",
+      "locality": "Locality 55",
+      "areaName": "Area 55",
+      "costForTwo": 1081,
+      "cuisines": [
+        "Tandoori",
+        "Tandoori"
+      ],
+      "rating": "4.8",
+      "deliveryTime": 25,
+      "menu": [
+        {
+          "id": "5501",
+          "name": "Dish 55A",
+          "price": 580,
+          "description": "Description for Dish 55A.",
+          "imageId": "dish_55_a_image"
+        },
+        {
+          "id": "5502",
+          "name": "Dish 55B",
+          "price": 465,
+          "description": "Description for Dish 55B.",
+          "imageId": "dish_55_b_image"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Restaurant 56",
+      "cloudinaryImageId": "restaurant_56_image",
+      "locality": "Locality 56",
+      "areaName": "Area 56",
+      "costForTwo": 454,
+      "cuisines": [
+        "Desserts",
+        "Mexican"
+      ],
+      "rating": "4.0",
+      "deliveryTime": 46,
+      "menu": [
+        {
+          "id": "5601",
+          "name": "Dish 56A",
+          "price": 385,
+          "description": "Description for Dish 56A.",
+          "imageId": "dish_56_a_image"
+        },
+        {
+          "id": "5602",
+          "name": "Dish 56B",
+          "price": 253,
+          "description": "Description for Dish 56B.",
+          "imageId": "dish_56_b_image"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Restaurant 57",
+      "cloudinaryImageId": "restaurant_57_image",
+      "locality": "Locality 57",
+      "areaName": "Area 57",
+      "costForTwo": 537,
+      "cuisines": [
+        "Pizza",
+        "Desserts"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 26,
+      "menu": [
+        {
+          "id": "5701",
+          "name": "Dish 57A",
+          "price": 557,
+          "description": "Description for Dish 57A.",
+          "imageId": "dish_57_a_image"
+        },
+        {
+          "id": "5702",
+          "name": "Dish 57B",
+          "price": 218,
+          "description": "Description for Dish 57B.",
+          "imageId": "dish_57_b_image"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Restaurant 58",
+      "cloudinaryImageId": "restaurant_58_image",
+      "locality": "Locality 58",
+      "areaName": "Area 58",
+      "costForTwo": 535,
+      "cuisines": [
+        "Tandoori",
+        "Italian"
+      ],
+      "rating": "4.4",
+      "deliveryTime": 26,
+      "menu": [
+        {
+          "id": "5801",
+          "name": "Dish 58A",
+          "price": 459,
+          "description": "Description for Dish 58A.",
+          "imageId": "dish_58_a_image"
+        },
+        {
+          "id": "5802",
+          "name": "Dish 58B",
+          "price": 406,
+          "description": "Description for Dish 58B.",
+          "imageId": "dish_58_b_image"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Restaurant 59",
+      "cloudinaryImageId": "restaurant_59_image",
+      "locality": "Locality 59",
+      "areaName": "Area 59",
+      "costForTwo": 1152,
+      "cuisines": [
+        "Pizza",
+        "Pizza"
+      ],
+      "rating": "4.6",
+      "deliveryTime": 27,
+      "menu": [
+        {
+          "id": "5901",
+          "name": "Dish 59A",
+          "price": 213,
+          "description": "Description for Dish 59A.",
+          "imageId": "dish_59_a_image"
+        },
+        {
+          "id": "5902",
+          "name": "Dish 59B",
+          "price": 202,
+          "description": "Description for Dish 59B.",
+          "imageId": "dish_59_b_image"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Restaurant 60",
+      "cloudinaryImageId": "restaurant_60_image",
+      "locality": "Locality 60",
+      "areaName": "Area 60",
+      "costForTwo": 861,
+      "cuisines": [
+        "Desserts",
+        "Thai"
+      ],
+      "rating": "4.0",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "6001",
+          "name": "Dish 60A",
+          "price": 277,
+          "description": "Description for Dish 60A.",
+          "imageId": "dish_60_a_image"
+        },
+        {
+          "id": "6002",
+          "name": "Dish 60B",
+          "price": 138,
+          "description": "Description for Dish 60B.",
+          "imageId": "dish_60_b_image"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Restaurant 61",
+      "cloudinaryImageId": "restaurant_61_image",
+      "locality": "Locality 61",
+      "areaName": "Area 61",
+      "costForTwo": 349,
+      "cuisines": [
+        "Italian",
+        "Tandoori"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 45,
+      "menu": [
+        {
+          "id": "6101",
+          "name": "Dish 61A",
+          "price": 243,
+          "description": "Description for Dish 61A.",
+          "imageId": "dish_61_a_image"
+        },
+        {
+          "id": "6102",
+          "name": "Dish 61B",
+          "price": 106,
+          "description": "Description for Dish 61B.",
+          "imageId": "dish_61_b_image"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Restaurant 62",
+      "cloudinaryImageId": "restaurant_62_image",
+      "locality": "Locality 62",
+      "areaName": "Area 62",
+      "costForTwo": 1095,
+      "cuisines": [
+        "Chinese",
+        "Italian"
+      ],
+      "rating": "4.1",
+      "deliveryTime": 54,
+      "menu": [
+        {
+          "id": "6201",
+          "name": "Dish 62A",
+          "price": 467,
+          "description": "Description for Dish 62A.",
+          "imageId": "dish_62_a_image"
+        },
+        {
+          "id": "6202",
+          "name": "Dish 62B",
+          "price": 372,
+          "description": "Description for Dish 62B.",
+          "imageId": "dish_62_b_image"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Restaurant 63",
+      "cloudinaryImageId": "restaurant_63_image",
+      "locality": "Locality 63",
+      "areaName": "Area 63",
+      "costForTwo": 1072,
+      "cuisines": [
+        "Desserts",
+        "Desserts"
+      ],
+      "rating": "3.5",
+      "deliveryTime": 22,
+      "menu": [
+        {
+          "id": "6301",
+          "name": "Dish 63A",
+          "price": 221,
+          "description": "Description for Dish 63A.",
+          "imageId": "dish_63_a_image"
+        },
+        {
+          "id": "6302",
+          "name": "Dish 63B",
+          "price": 503,
+          "description": "Description for Dish 63B.",
+          "imageId": "dish_63_b_image"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Restaurant 64",
+      "cloudinaryImageId": "restaurant_64_image",
+      "locality": "Locality 64",
+      "areaName": "Area 64",
+      "costForTwo": 469,
+      "cuisines": [
+        "Tandoori",
+        "Desserts"
+      ],
+      "rating": "3.6",
+      "deliveryTime": 57,
+      "menu": [
+        {
+          "id": "6401",
+          "name": "Dish 64A",
+          "price": 282,
+          "description": "Description for Dish 64A.",
+          "imageId": "dish_64_a_image"
+        },
+        {
+          "id": "6402",
+          "name": "Dish 64B",
+          "price": 551,
+          "description": "Description for Dish 64B.",
+          "imageId": "dish_64_b_image"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Restaurant 65",
+      "cloudinaryImageId": "restaurant_65_image",
+      "locality": "Locality 65",
+      "areaName": "Area 65",
+      "costForTwo": 1099,
+      "cuisines": [
+        "Chinese",
+        "Chinese"
+      ],
+      "rating": "3.0",
+      "deliveryTime": 58,
+      "menu": [
+        {
+          "id": "6501",
+          "name": "Dish 65A",
+          "price": 291,
+          "description": "Description for Dish 65A.",
+          "imageId": "dish_65_a_image"
+        },
+        {
+          "id": "6502",
+          "name": "Dish 65B",
+          "price": 416,
+          "description": "Description for Dish 65B.",
+          "imageId": "dish_65_b_image"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Restaurant 66",
+      "cloudinaryImageId": "restaurant_66_image",
+      "locality": "Locality 66",
+      "areaName": "Area 66",
+      "costForTwo": 701,
+      "cuisines": [
+        "Pizza",
+        "Thai"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 49,
+      "menu": [
+        {
+          "id": "6601",
+          "name": "Dish 66A",
+          "price": 395,
+          "description": "Description for Dish 66A.",
+          "imageId": "dish_66_a_image"
+        },
+        {
+          "id": "6602",
+          "name": "Dish 66B",
+          "price": 247,
+          "description": "Description for Dish 66B.",
+          "imageId": "dish_66_b_image"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Restaurant 67",
+      "cloudinaryImageId": "restaurant_67_image",
+      "locality": "Locality 67",
+      "areaName": "Area 67",
+      "costForTwo": 208,
+      "cuisines": [
+        "Pizza",
+        "Desserts"
+      ],
+      "rating": "3.8",
+      "deliveryTime": 32,
+      "menu": [
+        {
+          "id": "6701",
+          "name": "Dish 67A",
+          "price": 215,
+          "description": "Description for Dish 67A.",
+          "imageId": "dish_67_a_image"
+        },
+        {
+          "id": "6702",
+          "name": "Dish 67B",
+          "price": 244,
+          "description": "Description for Dish 67B.",
+          "imageId": "dish_67_b_image"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Restaurant 68",
+      "cloudinaryImageId": "restaurant_68_image",
+      "locality": "Locality 68",
+      "areaName": "Area 68",
+      "costForTwo": 238,
+      "cuisines": [
+        "Desserts",
+        "Desserts"
+      ],
+      "rating": "3.1",
+      "deliveryTime": 53,
+      "menu": [
+        {
+          "id": "6801",
+          "name": "Dish 68A",
+          "price": 288,
+          "description": "Description for Dish 68A.",
+          "imageId": "dish_68_a_image"
+        },
+        {
+          "id": "6802",
+          "name": "Dish 68B",
+          "price": 411,
+          "description": "Description for Dish 68B.",
+          "imageId": "dish_68_b_image"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Restaurant 69",
+      "cloudinaryImageId": "restaurant_69_image",
+      "locality": "Locality 69",
+      "areaName": "Area 69",
+      "costForTwo": 426,
+      "cuisines": [
+        "Chinese",
+        "Thai"
+      ],
+      "rating": "4.6",
+      "deliveryTime": 51,
+      "menu": [
+        {
+          "id": "6901",
+          "name": "Dish 69A",
+          "price": 322,
+          "description": "Description for Dish 69A.",
+          "imageId": "dish_69_a_image"
+        },
+        {
+          "id": "6902",
+          "name": "Dish 69B",
+          "price": 509,
+          "description": "Description for Dish 69B.",
+          "imageId": "dish_69_b_image"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Restaurant 70",
+      "cloudinaryImageId": "restaurant_70_image",
+      "locality": "Locality 70",
+      "areaName": "Area 70",
+      "costForTwo": 448,
+      "cuisines": [
+        "Indian",
+        "Tandoori"
+      ],
+      "rating": "4.3",
+      "deliveryTime": 49,
+      "menu": [
+        {
+          "id": "7001",
+          "name": "Dish 70A",
+          "price": 518,
+          "description": "Description for Dish 70A.",
+          "imageId": "dish_70_a_image"
+        },
+        {
+          "id": "7002",
+          "name": "Dish 70B",
+          "price": 234,
+          "description": "Description for Dish 70B.",
+          "imageId": "dish_70_b_image"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Restaurant 71",
+      "cloudinaryImageId": "restaurant_71_image",
+      "locality": "Locality 71",
+      "areaName": "Area 71",
+      "costForTwo": 501,
+      "cuisines": [
+        "Thai",
+        "Desserts"
+      ],
+      "rating": "3.1",
+      "deliveryTime": 32,
+      "menu": [
+        {
+          "id": "7101",
+          "name": "Dish 71A",
+          "price": 384,
+          "description": "Description for Dish 71A.",
+          "imageId": "dish_71_a_image"
+        },
+        {
+          "id": "7102",
+          "name": "Dish 71B",
+          "price": 308,
+          "description": "Description for Dish 71B.",
+          "imageId": "dish_71_b_image"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Restaurant 72",
+      "cloudinaryImageId": "restaurant_72_image",
+      "locality": "Locality 72",
+      "areaName": "Area 72",
+      "costForTwo": 339,
+      "cuisines": [
+        "Chinese",
+        "Indian"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 59,
+      "menu": [
+        {
+          "id": "7201",
+          "name": "Dish 72A",
+          "price": 321,
+          "description": "Description for Dish 72A.",
+          "imageId": "dish_72_a_image"
+        },
+        {
+          "id": "7202",
+          "name": "Dish 72B",
+          "price": 522,
+          "description": "Description for Dish 72B.",
+          "imageId": "dish_72_b_image"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Restaurant 73",
+      "cloudinaryImageId": "restaurant_73_image",
+      "locality": "Locality 73",
+      "areaName": "Area 73",
+      "costForTwo": 393,
+      "cuisines": [
+        "Chinese",
+        "Italian"
+      ],
+      "rating": "3.7",
+      "deliveryTime": 45,
+      "menu": [
+        {
+          "id": "7301",
+          "name": "Dish 73A",
+          "price": 367,
+          "description": "Description for Dish 73A.",
+          "imageId": "dish_73_a_image"
+        },
+        {
+          "id": "7302",
+          "name": "Dish 73B",
+          "price": 108,
+          "description": "Description for Dish 73B.",
+          "imageId": "dish_73_b_image"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Restaurant 74",
+      "cloudinaryImageId": "restaurant_74_image",
+      "locality": "Locality 74",
+      "areaName": "Area 74",
+      "costForTwo": 1180,
+      "cuisines": [
+        "Mexican",
+        "Italian"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 34,
+      "menu": [
+        {
+          "id": "7401",
+          "name": "Dish 74A",
+          "price": 426,
+          "description": "Description for Dish 74A.",
+          "imageId": "dish_74_a_image"
+        },
+        {
+          "id": "7402",
+          "name": "Dish 74B",
+          "price": 252,
+          "description": "Description for Dish 74B.",
+          "imageId": "dish_74_b_image"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Restaurant 75",
+      "cloudinaryImageId": "restaurant_75_image",
+      "locality": "Locality 75",
+      "areaName": "Area 75",
+      "costForTwo": 548,
+      "cuisines": [
+        "Mexican",
+        "Thai"
+      ],
+      "rating": "4.1",
+      "deliveryTime": 26,
+      "menu": [
+        {
+          "id": "7501",
+          "name": "Dish 75A",
+          "price": 145,
+          "description": "Description for Dish 75A.",
+          "imageId": "dish_75_a_image"
+        },
+        {
+          "id": "7502",
+          "name": "Dish 75B",
+          "price": 592,
+          "description": "Description for Dish 75B.",
+          "imageId": "dish_75_b_image"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Restaurant 76",
+      "cloudinaryImageId": "restaurant_76_image",
+      "locality": "Locality 76",
+      "areaName": "Area 76",
+      "costForTwo": 468,
+      "cuisines": [
+        "Desserts",
+        "Italian"
+      ],
+      "rating": "3.3",
+      "deliveryTime": 28,
+      "menu": [
+        {
+          "id": "7601",
+          "name": "Dish 76A",
+          "price": 421,
+          "description": "Description for Dish 76A.",
+          "imageId": "dish_76_a_image"
+        },
+        {
+          "id": "7602",
+          "name": "Dish 76B",
+          "price": 479,
+          "description": "Description for Dish 76B.",
+          "imageId": "dish_76_b_image"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Restaurant 77",
+      "cloudinaryImageId": "restaurant_77_image",
+      "locality": "Locality 77",
+      "areaName": "Area 77",
+      "costForTwo": 366,
+      "cuisines": [
+        "Desserts",
+        "Desserts"
+      ],
+      "rating": "4.7",
+      "deliveryTime": 46,
+      "menu": [
+        {
+          "id": "7701",
+          "name": "Dish 77A",
+          "price": 169,
+          "description": "Description for Dish 77A.",
+          "imageId": "dish_77_a_image"
+        },
+        {
+          "id": "7702",
+          "name": "Dish 77B",
+          "price": 341,
+          "description": "Description for Dish 77B.",
+          "imageId": "dish_77_b_image"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Restaurant 78",
+      "cloudinaryImageId": "restaurant_78_image",
+      "locality": "Locality 78",
+      "areaName": "Area 78",
+      "costForTwo": 700,
+      "cuisines": [
+        "Thai",
+        "Thai"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 51,
+      "menu": [
+        {
+          "id": "7801",
+          "name": "Dish 78A",
+          "price": 175,
+          "description": "Description for Dish 78A.",
+          "imageId": "dish_78_a_image"
+        },
+        {
+          "id": "7802",
+          "name": "Dish 78B",
+          "price": 560,
+          "description": "Description for Dish 78B.",
+          "imageId": "dish_78_b_image"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Restaurant 79",
+      "cloudinaryImageId": "restaurant_79_image",
+      "locality": "Locality 79",
+      "areaName": "Area 79",
+      "costForTwo": 991,
+      "cuisines": [
+        "Mexican",
+        "Pizza"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 35,
+      "menu": [
+        {
+          "id": "7901",
+          "name": "Dish 79A",
+          "price": 280,
+          "description": "Description for Dish 79A.",
+          "imageId": "dish_79_a_image"
+        },
+        {
+          "id": "7902",
+          "name": "Dish 79B",
+          "price": 161,
+          "description": "Description for Dish 79B.",
+          "imageId": "dish_79_b_image"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Restaurant 80",
+      "cloudinaryImageId": "restaurant_80_image",
+      "locality": "Locality 80",
+      "areaName": "Area 80",
+      "costForTwo": 1005,
+      "cuisines": [
+        "Indian",
+        "Thai"
+      ],
+      "rating": "3.6",
+      "deliveryTime": 36,
+      "menu": [
+        {
+          "id": "8001",
+          "name": "Dish 80A",
+          "price": 138,
+          "description": "Description for Dish 80A.",
+          "imageId": "dish_80_a_image"
+        },
+        {
+          "id": "8002",
+          "name": "Dish 80B",
+          "price": 576,
+          "description": "Description for Dish 80B.",
+          "imageId": "dish_80_b_image"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Restaurant 81",
+      "cloudinaryImageId": "restaurant_81_image",
+      "locality": "Locality 81",
+      "areaName": "Area 81",
+      "costForTwo": 254,
+      "cuisines": [
+        "Chinese",
+        "Chinese"
+      ],
+      "rating": "4.8",
+      "deliveryTime": 38,
+      "menu": [
+        {
+          "id": "8101",
+          "name": "Dish 81A",
+          "price": 462,
+          "description": "Description for Dish 81A.",
+          "imageId": "dish_81_a_image"
+        },
+        {
+          "id": "8102",
+          "name": "Dish 81B",
+          "price": 291,
+          "description": "Description for Dish 81B.",
+          "imageId": "dish_81_b_image"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Restaurant 82",
+      "cloudinaryImageId": "restaurant_82_image",
+      "locality": "Locality 82",
+      "areaName": "Area 82",
+      "costForTwo": 862,
+      "cuisines": [
+        "Indian",
+        "Italian"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 29,
+      "menu": [
+        {
+          "id": "8201",
+          "name": "Dish 82A",
+          "price": 467,
+          "description": "Description for Dish 82A.",
+          "imageId": "dish_82_a_image"
+        },
+        {
+          "id": "8202",
+          "name": "Dish 82B",
+          "price": 239,
+          "description": "Description for Dish 82B.",
+          "imageId": "dish_82_b_image"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Restaurant 83",
+      "cloudinaryImageId": "restaurant_83_image",
+      "locality": "Locality 83",
+      "areaName": "Area 83",
+      "costForTwo": 1147,
+      "cuisines": [
+        "Pizza",
+        "Desserts"
+      ],
+      "rating": "4.6",
+      "deliveryTime": 34,
+      "menu": [
+        {
+          "id": "8301",
+          "name": "Dish 83A",
+          "price": 245,
+          "description": "Description for Dish 83A.",
+          "imageId": "dish_83_a_image"
+        },
+        {
+          "id": "8302",
+          "name": "Dish 83B",
+          "price": 155,
+          "description": "Description for Dish 83B.",
+          "imageId": "dish_83_b_image"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Restaurant 84",
+      "cloudinaryImageId": "restaurant_84_image",
+      "locality": "Locality 84",
+      "areaName": "Area 84",
+      "costForTwo": 535,
+      "cuisines": [
+        "Tandoori",
+        "Chinese"
+      ],
+      "rating": "3.6",
+      "deliveryTime": 46,
+      "menu": [
+        {
+          "id": "8401",
+          "name": "Dish 84A",
+          "price": 160,
+          "description": "Description for Dish 84A.",
+          "imageId": "dish_84_a_image"
+        },
+        {
+          "id": "8402",
+          "name": "Dish 84B",
+          "price": 234,
+          "description": "Description for Dish 84B.",
+          "imageId": "dish_84_b_image"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "Restaurant 85",
+      "cloudinaryImageId": "restaurant_85_image",
+      "locality": "Locality 85",
+      "areaName": "Area 85",
+      "costForTwo": 940,
+      "cuisines": [
+        "Thai",
+        "Chinese"
+      ],
+      "rating": "3.5",
+      "deliveryTime": 37,
+      "menu": [
+        {
+          "id": "8501",
+          "name": "Dish 85A",
+          "price": 210,
+          "description": "Description for Dish 85A.",
+          "imageId": "dish_85_a_image"
+        },
+        {
+          "id": "8502",
+          "name": "Dish 85B",
+          "price": 557,
+          "description": "Description for Dish 85B.",
+          "imageId": "dish_85_b_image"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Restaurant 86",
+      "cloudinaryImageId": "restaurant_86_image",
+      "locality": "Locality 86",
+      "areaName": "Area 86",
+      "costForTwo": 910,
+      "cuisines": [
+        "Indian",
+        "Desserts"
+      ],
+      "rating": "5.0",
+      "deliveryTime": 40,
+      "menu": [
+        {
+          "id": "8601",
+          "name": "Dish 86A",
+          "price": 245,
+          "description": "Description for Dish 86A.",
+          "imageId": "dish_86_a_image"
+        },
+        {
+          "id": "8602",
+          "name": "Dish 86B",
+          "price": 419,
+          "description": "Description for Dish 86B.",
+          "imageId": "dish_86_b_image"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "Restaurant 87",
+      "cloudinaryImageId": "restaurant_87_image",
+      "locality": "Locality 87",
+      "areaName": "Area 87",
+      "costForTwo": 351,
+      "cuisines": [
+        "Indian",
+        "Desserts"
+      ],
+      "rating": "3.0",
+      "deliveryTime": 20,
+      "menu": [
+        {
+          "id": "8701",
+          "name": "Dish 87A",
+          "price": 270,
+          "description": "Description for Dish 87A.",
+          "imageId": "dish_87_a_image"
+        },
+        {
+          "id": "8702",
+          "name": "Dish 87B",
+          "price": 382,
+          "description": "Description for Dish 87B.",
+          "imageId": "dish_87_b_image"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Restaurant 88",
+      "cloudinaryImageId": "restaurant_88_image",
+      "locality": "Locality 88",
+      "areaName": "Area 88",
+      "costForTwo": 471,
+      "cuisines": [
+        "Tandoori",
+        "Mexican"
+      ],
+      "rating": "3.7",
+      "deliveryTime": 36,
+      "menu": [
+        {
+          "id": "8801",
+          "name": "Dish 88A",
+          "price": 495,
+          "description": "Description for Dish 88A.",
+          "imageId": "dish_88_a_image"
+        },
+        {
+          "id": "8802",
+          "name": "Dish 88B",
+          "price": 378,
+          "description": "Description for Dish 88B.",
+          "imageId": "dish_88_b_image"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Restaurant 89",
+      "cloudinaryImageId": "restaurant_89_image",
+      "locality": "Locality 89",
+      "areaName": "Area 89",
+      "costForTwo": 524,
+      "cuisines": [
+        "Pizza",
+        "Desserts"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 51,
+      "menu": [
+        {
+          "id": "8901",
+          "name": "Dish 89A",
+          "price": 370,
+          "description": "Description for Dish 89A.",
+          "imageId": "dish_89_a_image"
+        },
+        {
+          "id": "8902",
+          "name": "Dish 89B",
+          "price": 364,
+          "description": "Description for Dish 89B.",
+          "imageId": "dish_89_b_image"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "Restaurant 90",
+      "cloudinaryImageId": "restaurant_90_image",
+      "locality": "Locality 90",
+      "areaName": "Area 90",
+      "costForTwo": 681,
+      "cuisines": [
+        "Chinese",
+        "Chinese"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 36,
+      "menu": [
+        {
+          "id": "9001",
+          "name": "Dish 90A",
+          "price": 284,
+          "description": "Description for Dish 90A.",
+          "imageId": "dish_90_a_image"
+        },
+        {
+          "id": "9002",
+          "name": "Dish 90B",
+          "price": 335,
+          "description": "Description for Dish 90B.",
+          "imageId": "dish_90_b_image"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Restaurant 91",
+      "cloudinaryImageId": "restaurant_91_image",
+      "locality": "Locality 91",
+      "areaName": "Area 91",
+      "costForTwo": 890,
+      "cuisines": [
+        "Indian",
+        "Tandoori"
+      ],
+      "rating": "4.3",
+      "deliveryTime": 21,
+      "menu": [
+        {
+          "id": "9101",
+          "name": "Dish 91A",
+          "price": 281,
+          "description": "Description for Dish 91A.",
+          "imageId": "dish_91_a_image"
+        },
+        {
+          "id": "9102",
+          "name": "Dish 91B",
+          "price": 362,
+          "description": "Description for Dish 91B.",
+          "imageId": "dish_91_b_image"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Restaurant 92",
+      "cloudinaryImageId": "restaurant_92_image",
+      "locality": "Locality 92",
+      "areaName": "Area 92",
+      "costForTwo": 1046,
+      "cuisines": [
+        "Thai",
+        "Mexican"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 40,
+      "menu": [
+        {
+          "id": "9201",
+          "name": "Dish 92A",
+          "price": 359,
+          "description": "Description for Dish 92A.",
+          "imageId": "dish_92_a_image"
+        },
+        {
+          "id": "9202",
+          "name": "Dish 92B",
+          "price": 501,
+          "description": "Description for Dish 92B.",
+          "imageId": "dish_92_b_image"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Restaurant 93",
+      "cloudinaryImageId": "restaurant_93_image",
+      "locality": "Locality 93",
+      "areaName": "Area 93",
+      "costForTwo": 983,
+      "cuisines": [
+        "Thai",
+        "Chinese"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 52,
+      "menu": [
+        {
+          "id": "9301",
+          "name": "Dish 93A",
+          "price": 557,
+          "description": "Description for Dish 93A.",
+          "imageId": "dish_93_a_image"
+        },
+        {
+          "id": "9302",
+          "name": "Dish 93B",
+          "price": 586,
+          "description": "Description for Dish 93B.",
+          "imageId": "dish_93_b_image"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Restaurant 94",
+      "cloudinaryImageId": "restaurant_94_image",
+      "locality": "Locality 94",
+      "areaName": "Area 94",
+      "costForTwo": 989,
+      "cuisines": [
+        "Italian",
+        "Desserts"
+      ],
+      "rating": "3.1",
+      "deliveryTime": 22,
+      "menu": [
+        {
+          "id": "9401",
+          "name": "Dish 94A",
+          "price": 414,
+          "description": "Description for Dish 94A.",
+          "imageId": "dish_94_a_image"
+        },
+        {
+          "id": "9402",
+          "name": "Dish 94B",
+          "price": 386,
+          "description": "Description for Dish 94B.",
+          "imageId": "dish_94_b_image"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Restaurant 95",
+      "cloudinaryImageId": "restaurant_95_image",
+      "locality": "Locality 95",
+      "areaName": "Area 95",
+      "costForTwo": 580,
+      "cuisines": [
+        "Chinese",
+        "Desserts"
+      ],
+      "rating": "4.2",
+      "deliveryTime": 29,
+      "menu": [
+        {
+          "id": "9501",
+          "name": "Dish 95A",
+          "price": 330,
+          "description": "Description for Dish 95A.",
+          "imageId": "dish_95_a_image"
+        },
+        {
+          "id": "9502",
+          "name": "Dish 95B",
+          "price": 518,
+          "description": "Description for Dish 95B.",
+          "imageId": "dish_95_b_image"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Restaurant 96",
+      "cloudinaryImageId": "restaurant_96_image",
+      "locality": "Locality 96",
+      "areaName": "Area 96",
+      "costForTwo": 719,
+      "cuisines": [
+        "Indian",
+        "Desserts"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 45,
+      "menu": [
+        {
+          "id": "9601",
+          "name": "Dish 96A",
+          "price": 424,
+          "description": "Description for Dish 96A.",
+          "imageId": "dish_96_a_image"
+        },
+        {
+          "id": "9602",
+          "name": "Dish 96B",
+          "price": 206,
+          "description": "Description for Dish 96B.",
+          "imageId": "dish_96_b_image"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Restaurant 97",
+      "cloudinaryImageId": "restaurant_97_image",
+      "locality": "Locality 97",
+      "areaName": "Area 97",
+      "costForTwo": 662,
+      "cuisines": [
+        "Mexican",
+        "Desserts"
+      ],
+      "rating": "4.5",
+      "deliveryTime": 33,
+      "menu": [
+        {
+          "id": "9701",
+          "name": "Dish 97A",
+          "price": 367,
+          "description": "Description for Dish 97A.",
+          "imageId": "dish_97_a_image"
+        },
+        {
+          "id": "9702",
+          "name": "Dish 97B",
+          "price": 517,
+          "description": "Description for Dish 97B.",
+          "imageId": "dish_97_b_image"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "Restaurant 98",
+      "cloudinaryImageId": "restaurant_98_image",
+      "locality": "Locality 98",
+      "areaName": "Area 98",
+      "costForTwo": 957,
+      "cuisines": [
+        "Desserts",
+        "Indian"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 49,
+      "menu": [
+        {
+          "id": "9801",
+          "name": "Dish 98A",
+          "price": 571,
+          "description": "Description for Dish 98A.",
+          "imageId": "dish_98_a_image"
+        },
+        {
+          "id": "9802",
+          "name": "Dish 98B",
+          "price": 229,
+          "description": "Description for Dish 98B.",
+          "imageId": "dish_98_b_image"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Restaurant 99",
+      "cloudinaryImageId": "restaurant_99_image",
+      "locality": "Locality 99",
+      "areaName": "Area 99",
+      "costForTwo": 667,
+      "cuisines": [
+        "Thai",
+        "Thai"
+      ],
+      "rating": "3.4",
+      "deliveryTime": 44,
+      "menu": [
+        {
+          "id": "9901",
+          "name": "Dish 99A",
+          "price": 440,
+          "description": "Description for Dish 99A.",
+          "imageId": "dish_99_a_image"
+        },
+        {
+          "id": "9902",
+          "name": "Dish 99B",
+          "price": 459,
+          "description": "Description for Dish 99B.",
+          "imageId": "dish_99_b_image"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Restaurant 100",
+      "cloudinaryImageId": "restaurant_100_image",
+      "locality": "Locality 100",
+      "areaName": "Area 100",
+      "costForTwo": 658,
+      "cuisines": [
+        "Desserts",
+        "Tandoori"
+      ],
+      "rating": "3.9",
+      "deliveryTime": 56,
+      "menu": [
+        {
+          "id": "10001",
+          "name": "Dish 100A",
+          "price": 391,
+          "description": "Description for Dish 100A.",
+          "imageId": "dish_100_a_image"
+        },
+        {
+          "id": "10002",
+          "name": "Dish 100B",
+          "price": 440,
+          "description": "Description for Dish 100B.",
+          "imageId": "dish_100_b_image"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "appName": "Foodie",
+    "version": "1.0.0",
+    "currency": "INR",
+    "deliveryCharges": 50
+  }
+}

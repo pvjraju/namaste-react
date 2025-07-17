@@ -156,3 +156,11 @@ const HeadingComponent = () => (
 -> JSX also protects from cross site scripting attack. By sanitizing the ReactElement content.
 -> React code is readable because of JSX
 -> We can use Java script within the JSX, because of Babel
+
+
+Episode:4 -> Talk is cheap, show me the code:
+ -> Passing props to functional component is like passing arguments to a function.
+
+ -> config driven UI
+ -> whenever you are looping using map, give a key.
+ -> not using keys (not acceptable) <<<<<< index as key(use as last resort) <<<<<<<<<<<< unique id (best practice)
