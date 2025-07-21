@@ -1,0 +1,15231 @@
+const restList = [
+    {
+    "restaurants": [
+        {
+            "info": {
+                "id": "345899",
+                "name": "Theobroma",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/23/9ccd20ba-cc6b-4d1c-8667-70eeead89372_345899.JPG",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "parentId": "1040",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "11K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                            "description": "Delivery!"
+                        },
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹49"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "453"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/theobroma-gachibowli-rest345899",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "256893",
+                "name": "McDonald's",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/3/3af07d04-7c4d-41a9-b9a0-415ea4d79a4b_256893.jpg",
+                "locality": "Hyderabad Kondapur LG",
+                "areaName": "Forest Dept Colony",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Beverages",
+                    "Cafe",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "parentId": "630",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "27K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mcdonalds-kondapur-lg-forest-dept-colony-rest256893",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "155268",
+                "name": "Pizza Hut",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/690529d2-db8a-4883-9aa3-c4503d538b11_155268.JPG",
+                "locality": "Kondapur",
+                "areaName": "Kondapur",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 3.9,
+                "parentId": "721",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "8.4K+",
+                "sla": {
+                    "deliveryTime": 44,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "1.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-kondapur-rest155268",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "727188",
+                "name": "NIC Ice Creams",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/8/78fcaba0-147f-4464-a22e-5769357fa09f_727188.JPG",
+                "locality": "Raja Rajeshwari Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹120 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "6249",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "2.1K+",
+                "sla": {
+                    "deliveryTime": 16,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "brand",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "brand"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹124"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nic-ice-creams-raja-rajeshwari-nagar-kondapur-rest727188",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "456004",
+                "name": "KFC",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/ae2392f1-d1e5-4261-941d-67db1bb236fb_456004.JPG",
+                "locality": "Raja Rajeshwar Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Fast Food",
+                    "Rolls & Wraps"
+                ],
+                "avgRating": 4.1,
+                "parentId": "547",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kfc-raja-rajeshwar-nagar-kondapur-rest456004",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "129541",
+                "name": "Burger King",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/fb9d5e49-6ac1-47b9-9c03-226c3be056a4_129541.jpg",
+                "locality": "Capital Mall",
+                "areaName": "Forest Dept Colony",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Burgers",
+                    "American"
+                ],
+                "avgRating": 4.2,
+                "parentId": "166",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "36K+",
+                "sla": {
+                    "deliveryTime": 48,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/burger-king-capital-mall-forest-dept-colony-rest129541",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "315029",
+                "name": "Olio - The Wood Fired Pizzeria",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/17/a6992cf7-354c-4905-869a-9b7e853f88d8_315029.JPG",
+                "locality": "Kondapur",
+                "areaName": "Kondapur",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Pastas",
+                    "Italian",
+                    "Fast Food",
+                    "Snacks",
+                    "Beverages",
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "parentId": "11633",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "6.9K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 06:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.1",
+                        "ratingCount": "528"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/olio-the-wood-fired-pizzeria-kondapur-rest315029",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "829502",
+                "name": "Bakingo",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/10/e4783097-a929-4aff-85a1-1bafa52d8cf1_829502.jpg",
+                "locality": "Rangareddy",
+                "areaName": "Serlingampally Circle No 20",
+                "costForTwo": "₹299 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Beverages",
+                    "Snacks"
+                ],
+                "avgRating": 4.5,
+                "parentId": "3818",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "2.6K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 5.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bakingo-rangareddy-serlingampally-circle-no-20-rest829502",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "127321",
+                "name": "Taco Bell",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/10/7a58f00e-4ec9-4f15-b6bb-6bed2a95b806_127321.JPG",
+                "locality": "Saraths City Capital Shopping Mall",
+                "areaName": "Forest Dept Colony",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Mexican",
+                    "Fast Food",
+                    "Snacks"
+                ],
+                "avgRating": 3.9,
+                "parentId": "1557",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "7.0K+",
+                "sla": {
+                    "deliveryTime": 50,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "50-55 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Global%20Flavours.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Global%20Flavours.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "65% OFF",
+                    "subHeader": "UPTO ₹125"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/taco-bell-saraths-city-capital-shopping-mall-forest-dept-colony-rest127321",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "362217",
+                "name": "Natural Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/21/17c6d772-0683-42ac-ad47-806994151ff8_362217.jpg",
+                "locality": "Kondapur",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "2093",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "5.1K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/natural-ice-cream-kondapur-shilpa-hills-rest362217",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "27447",
+                "name": "Pista House",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/565c4b74-7365-4c90-bd91-e6032653cd1b_27447.jpg",
+                "locality": "Kondapur",
+                "areaName": "Kondapur",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Kebabs",
+                    "Mughlai",
+                    "Tandoor"
+                ],
+                "avgRating": 4.3,
+                "parentId": "1732",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "295K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Biryani.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "224"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/pista-house-kondapur-rest27447",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "793550",
+                "name": "Kwality Walls Ice Cream and More",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/d69f8ada-159b-4e33-a2ae-66767e2ac43f_793550.JPG",
+                "locality": "Miyapur Road",
+                "areaName": "Kondapur",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Ice Cream",
+                    "Ice Cream Cakes"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "582",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "214",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kwality-walls-ice-cream-and-more-miyapur-road-kondapur-rest793550",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "5093",
+                "name": "Kinara Grand",
+                "cloudinaryImageId": "fe8291a4d9ac30500ed2898121bbe623",
+                "locality": "Madinaguda Bus Stop",
+                "areaName": "Hafeezpet",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese"
+                ],
+                "avgRating": 4.2,
+                "parentId": "8469",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "46K+",
+                "sla": {
+                    "deliveryTime": 40,
+                    "lastMileTravel": 6.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 22:50:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kinara-grand-madinaguda-bus-stop-hafeezpet-rest5093",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "727189",
+                "name": "Grameen Kulfi",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/c422a4f9-dd50-4b20-8bfe-57f25cb37394_727189.jpg",
+                "locality": "Raja Rajeshwari Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹120 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.8,
+                "veg": true,
+                "parentId": "12175",
+                "avgRatingString": "4.8",
+                "totalRatingsString": "488",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹92"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/grameen-kulfi-raja-rajeshwari-nagar-kondapur-rest727189",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "808215",
+                "name": "Daily Kitchen - Everyday Homely Meals",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/d214eecf-9cee-4676-9a85-0af3d0cf4ad7_808215.jpg",
+                "locality": "SAI PRUTHIVI ENCLAVE",
+                "areaName": "KONDAPUR",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Home Food",
+                    "Indian",
+                    "Thalis"
+                ],
+                "avgRating": 4.6,
+                "parentId": "444382",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1.9K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 0.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "0.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                            "description": "bolt!"
+                        },
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "bolt!",
+                                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/daily-kitchen-everyday-homely-meals-sai-pruthivi-enclave-kondapur-rest808215",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "34633",
+                "name": "Srikanya",
+                "cloudinaryImageId": "xvk2jlbijyejf09fdqkp",
+                "locality": "Kothaguda",
+                "areaName": "Kondapur",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Andhra",
+                    "South Indian"
+                ],
+                "avgRating": 4.2,
+                "parentId": "7317",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "113K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 4.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 22:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "8.0K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/srikanya-kothaguda-kondapur-rest34633",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "808212",
+                "name": "LeanCrust Pizza- ThinCrust Experts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/30/5eeedf54-c958-440f-9077-6ced1a275f08_808212.jpg",
+                "locality": "SAI PRUTHIVI ENCLAVE",
+                "areaName": "KONDAPUR",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Italian",
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "parentId": "11216",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1.2K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 0.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "0.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                            "description": "bolt!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "bolt!",
+                                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/leancrust-pizza-thincrust-experts-sai-pruthivi-enclave-kondapur-rest808212",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "344923",
+                "name": "Baskin Robbins - Ice Cream Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/9a13e7b4-cad4-4be8-b45e-b7d2121096f7_344923.JPG",
+                "locality": "Sri Ram Nagar, Kondapur",
+                "areaName": "Sri Ram Nagar",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "5588",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "2.5K+",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 2.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 05:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹65 OFF",
+                    "subHeader": "ABOVE ₹249",
+                    "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/baskin-robbins-ice-cream-desserts-kondapur-sri-ram-nagar-rest344923",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "565288",
+                "name": "Wendy's Burgers",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/4b4f1f18-37d6-4838-b843-f5e53c63c6ba_565288.JPG",
+                "locality": "Serilingampally",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Burgers",
+                    "American",
+                    "Fast Food",
+                    "Snacks"
+                ],
+                "avgRating": 4.3,
+                "parentId": "972",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "3.5K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 4.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "4.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wendys-burgers-serilingampally-gachibowli-rest565288",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "313187",
+                "name": "Nawabi Chaats",
+                "cloudinaryImageId": "asob4fnxirpqx50bvuxp",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Chaat",
+                    "Snacks",
+                    "Indian"
+                ],
+                "avgRating": 4.3,
+                "parentId": "291323",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "5.2K+",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nawabi-chaats-gachibowli-rest313187",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "321987",
+                "name": "Pollanno... The Authentic Bengali Food",
+                "cloudinaryImageId": "rdy2wdjkdmhxjdzifteo",
+                "locality": "Raghavendra Colony",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Bengali"
+                ],
+                "avgRating": 4.3,
+                "parentId": "159641",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "3.2K+",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/pollanno-the-authentic-bengali-food-raghavendra-colony-gachibowli-rest321987",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "677743",
+                "name": "Cakes Wow",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/28/161682f0-77be-4296-8f05-2e7fe18fedd0_677743.jpg",
+                "locality": "White Field",
+                "areaName": "KONDAPUR ",
+                "costForTwo": "₹149 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Cakes & Pastries"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "233510",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "199",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/cakes-wow-white-field-kondapur-rest677743",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1047565",
+                "name": "Rayalaseema Spice",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/3/f21de210-eabf-4607-a4c1-a7602d89771d_1047565.sss.jpg",
+                "locality": "kondapur",
+                "areaName": "kondapur",
+                "costForTwo": "₹1000 for two",
+                "cuisines": [
+                    "Biryani",
+                    "South Indian",
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.5,
+                "parentId": "635288",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "256",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹50 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.8",
+                        "ratingCount": "635"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rayalaseema-spice-kondapur-rest1047565",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1054028",
+                "name": "Dabba & Co.",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/19/1b3012c1-d3ab-41b1-a4b7-f8b7f30f6bdf_1054028.jpg",
+                "locality": "Hanuman Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Home food",
+                    "Indian",
+                    "Thalis"
+                ],
+                "avgRating": 4.1,
+                "parentId": "612560",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "20",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹89"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/dabba-and-co-hanuman-nagar-kondapur-rest1054028",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "625930",
+                "name": "FB Cakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/30/4c5a7241-2190-4cf1-9c7f-aa1b85b1c90d_625930.jpg",
+                "locality": "Sri Ram nagar colony",
+                "areaName": "Kondapur",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Bakery"
+                ],
+                "avgRating": 4.2,
+                "parentId": "245423",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "602",
+                "sla": {
+                    "deliveryTime": 16,
+                    "lastMileTravel": 2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹119"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "198"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/fb-cakes-sri-ram-nagar-colony-kondapur-rest625930",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "7427",
+                "name": "Zomoz - The Momo Company",
+                "cloudinaryImageId": "arddqtncnbbgq6rtmu4g",
+                "locality": "Kondapur",
+                "areaName": "Kondapur",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Momos",
+                    "Fast Food"
+                ],
+                "avgRating": 4.5,
+                "parentId": "10838",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "16K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 2.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/zomoz-the-momo-company-kondapur-rest7427",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "263564",
+                "name": "Shravan Specials by Lunchbox",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/11/a6a056b9-4fe0-4207-8dd7-de2de6f6cc5a_263564.JPG",
+                "locality": "Hanuman Nagar",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "21938",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "560",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/shravan-specials-by-lunchbox-hanuman-nagar-shilpa-hills-rest263564",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "763551",
+                "name": "Rolls Mania - Rolls, Wraps & More",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/2aade8a7-6b41-4b66-9412-21fb369f45ac_763551.jpg",
+                "locality": "Gachibowli",
+                "areaName": "GACHIBOWLI",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Rolls & Wraps",
+                    "Fast Food",
+                    "Snacks",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "parentId": "514939",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "784",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "ABOVE ₹800",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "58"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rolls-mania-rolls-wraps-and-more-gachibowli-rest763551",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1079472",
+                "name": "100N",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/14/c4d434ba-2956-47fd-9ec9-a5effd3bce4c_1079472.jpg",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Beverages",
+                    "Juices"
+                ],
+                "avgRating": 4.1,
+                "parentId": "22768",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "23",
+                "sla": {
+                    "deliveryTime": 27,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹150",
+                    "discountTag": "SAVE BIG"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/100n-gachibowli-rest1079472",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "6564",
+                "name": "Kolkata Food Plaza",
+                "cloudinaryImageId": "ypjqdftm8be6wkybhp4a",
+                "locality": "Kondapur",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Seafood",
+                    "Bengali",
+                    "Chinese",
+                    "North Indian"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19526",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "51K+",
+                "sla": {
+                    "deliveryTime": 27,
+                    "lastMileTravel": 4.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "2.0K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kolkata-food-plaza-kondapur-gachibowli-rest6564",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "35541",
+                "name": "Sweet Truth - Cake and Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/838fbd0f-2632-4f0e-8fed-1028f8fe3685_35541.jpg",
+                "locality": "Hanuman Nagar",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Ice Cream",
+                    "Bakery",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "parentId": "4444",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "2.8K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sweet-truth-cake-and-desserts-hanuman-nagar-shilpa-hills-rest35541",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "145930",
+                "name": "Bikanervala",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/85fd0fbb-4baf-4cc7-a201-55a2859c7b1b_145930.jpg",
+                "locality": "Kondapur",
+                "areaName": "Kohtaguda",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "North Indian",
+                    "South Indian",
+                    "Street Food",
+                    "Sweets"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "45936",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "27K+",
+                "sla": {
+                    "deliveryTime": 27,
+                    "lastMileTravel": 4.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bikanervala-kondapur-kohtaguda-rest145930",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "563135",
+                "name": "Polar Bear",
+                "cloudinaryImageId": "57262fe3839f0bff174f3d7e7cc8a2b4",
+                "locality": "SAROJINI MR SUPREME",
+                "areaName": "Kondapur",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "726",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "3.0K+",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/polar-bear-sarojini-mr-supreme-kondapur-rest563135",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "766665",
+                "name": "Rollsking",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/28/30abc369-93cd-485d-871f-e5545f63b6db_766665.jpg",
+                "locality": "Kosetty Towers",
+                "areaName": "Lingampally & Nallagandla",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Fast Food",
+                    "Rolls & Wraps",
+                    "North Indian",
+                    "Snacks"
+                ],
+                "avgRating": 4.2,
+                "parentId": "4697",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "1.6K+",
+                "sla": {
+                    "deliveryTime": 40,
+                    "lastMileTravel": 4.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 mins",
+                    "lastMileTravelString": "4.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rollsking-kosetty-towers-lingampally-and-nallagandla-rest766665",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "189351",
+                "name": "The Biryani Life",
+                "cloudinaryImageId": "iylpvbycefjusmlvx62g",
+                "locality": "Serlingampally Mandal",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Mughlai",
+                    "Lucknowi",
+                    "Hyderabadi",
+                    "Kebabs",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 3.7,
+                "parentId": "8496",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "1.2K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-biryani-life-serlingampally-mandal-shilpa-hills-rest189351",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "156451",
+                "name": "The Good Bowl",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/15/a00653a4-2b2c-416d-ba90-1c7fd1674091_156451.jpg",
+                "locality": "Hanuman Nagar",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Pastas",
+                    "Punjabi",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "7918",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "2.8K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-good-bowl-hanuman-nagar-shilpa-hills-rest156451",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "206207",
+                "name": "Saharsh Udupi Grand",
+                "cloudinaryImageId": "wg5xs68b0flvanudqlxm",
+                "locality": "Kothaguda",
+                "areaName": "Kondapur ",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "South Indian",
+                    "Chinese",
+                    "Biryani"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "19093",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "28K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/saharsh-udupi-grand-kothaguda-kondapur-rest206207",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "245339",
+                "name": "Chandigarh Dhaba",
+                "cloudinaryImageId": "hhpqbfuhqzufdqccbqm7",
+                "locality": "Kondapur",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Punjabi",
+                    "Tandoor",
+                    "Mughlai",
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19454",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.3",
+                        "ratingCount": "1.0K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/chandigarh-dhaba-kondapur-gachibowli-rest245339",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "490255",
+                "name": "Family Dhaba",
+                "cloudinaryImageId": "as791is5yo4v8w9wvspd",
+                "locality": "Anjaiah Nagar",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹249 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Snacks",
+                    "Biryani"
+                ],
+                "avgRating": 3,
+                "parentId": "78341",
+                "avgRatingString": "3.0",
+                "totalRatingsString": "495",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/family-dhaba-anjaiah-nagar-gachibowli-rest490255",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1036497",
+                "name": "Bigguys Burgers",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/1/ad42c8c0-20b8-45c0-a171-87ade9dc9a5e_1036497.jpg",
+                "locality": "Ramchandrapuram",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "American",
+                    "Beverages",
+                    "Fast Food"
+                ],
+                "parentId": "603344",
+                "avgRatingString": "NEW",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bigguys-burgers-ramchandrapuram-gachibowli-rest1036497",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "972174",
+                "name": "Kunafa Kingdom",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/14/29e151fc-6f99-4fb3-b8e5-925109970ba9_972174.JPG",
+                "locality": "Sriram Nagar Road",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Turkish",
+                    "Mediterranean",
+                    "Middle Eastern"
+                ],
+                "avgRating": 4.2,
+                "veg": true,
+                "parentId": "394405",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "284",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 2.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kunafa-kingdom-sriram-nagar-road-gachibowli-rest972174",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "969500",
+                "name": "Dine Inn China",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/a3f8776c-ab3f-46f7-9026-8300d391ce1c_969500.jpg",
+                "locality": "Gachibowli",
+                "areaName": "kondapur",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "parentId": "11638",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "389",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/dine-inn-china-gachibowli-kondapur-rest969500",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1057642",
+                "name": "Doner And Gyros - Salad, Shawarma, Falafel House",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/15/c6355751-bf60-4e4e-9ff8-9d6e94072650_1057642.jpg",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                    "Lebanese",
+                    "shawarma",
+                    "Middle Eastern"
+                ],
+                "avgRating": 4.1,
+                "parentId": "598833",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "51",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/doner-and-gyros-salad-shawarma-falafel-house-gachibowli-rest1057642",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "750845",
+                "name": "Krimmy Thickshakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/4/c590e89c-21a6-4006-a2d4-2c8104dd51a3_750845.jpg",
+                "locality": "Arunodaya Colony",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Snacks",
+                    "Fast Food",
+                    "Pizzas",
+                    "Burgers",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "379165",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "281",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/krimmy-thickshakes-arunodaya-colony-gachibowli-rest750845",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1054622",
+                "name": "Fly Chicken",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/6/95e96ce3-c4cc-4a0b-ac6c-a9505155b1a0_1054622 (1).jpg",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹750 for two",
+                "cuisines": [
+                    "fastfood",
+                    "Burgers"
+                ],
+                "avgRating": 4.3,
+                "parentId": "612717",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "274",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "189"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/fly-chicken-gachibowli-rest1054622",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "126847",
+                "name": "Bihari North Indian Hotel",
+                "cloudinaryImageId": "aoshjyy4o4zxhjscnmcj",
+                "locality": "Kondapur",
+                "areaName": "Gachibowli - Kondapur",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Thai",
+                    "paratha"
+                ],
+                "avgRating": 4.3,
+                "parentId": "45790",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "12K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bihari-north-indian-hotel-kondapur-gachibowli-kondapur-rest126847",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "359192",
+                "name": "Royal Spicy Restaurant",
+                "cloudinaryImageId": "qpgnqcpdxkvnikglkyfz",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Indian"
+                ],
+                "avgRating": 3.7,
+                "parentId": "172508",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "2.8K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.6",
+                        "ratingCount": "222"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/royal-spicy-restaurant-gachibowli-rest359192",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "83682",
+                "name": "Hyderabadi Biryani Dreams",
+                "cloudinaryImageId": "dpu8ggvhn4ljmcdj4a7l",
+                "locality": "Miyapur Road",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹340 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Beverages"
+                ],
+                "avgRating": 3.8,
+                "parentId": "230758",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "6.1K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 04:15:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/hyderabadi-biryani-dreams-miyapur-road-gachibowli-rest83682",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "43768",
+                "name": "Hitex solanki family dhaba",
+                "cloudinaryImageId": "mzqm48vnexvzdpuvkvnk",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Indian"
+                ],
+                "avgRating": 4,
+                "veg": true,
+                "parentId": "511779",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "17K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "3.2K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/hitex-solanki-family-dhaba-gachibowli-rest43768",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "969361",
+                "name": "1885 NY Smash Burgers",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/19/ce2c185f-e3f1-4932-99d9-f521950dc718_969361 (1).jpg",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Burgers"
+                ],
+                "avgRating": 4.7,
+                "parentId": "567642",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "242",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/1885-ny-smash-burgers-gachibowli-rest969361",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "808208",
+                "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/5a362c55-78ab-4e1d-bb34-db53e07fb408_808208.jpg",
+                "locality": "SAI PRUTHIVI ENCLAVE",
+                "areaName": "KONDAPUR",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Healthy Food",
+                    "Salads",
+                    "Keto",
+                    "Snacks"
+                ],
+                "avgRating": 4.7,
+                "parentId": "355285",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "1.4K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 0.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "0.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                            "description": "bolt!"
+                        },
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "bolt!",
+                                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wefit-protein-bowls-salads-and-sandwiches-sai-pruthivi-enclave-kondapur-rest808208",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "808206",
+                "name": "ZAZA Mughal Biryani",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/487fa34c-a673-46ae-aa00-2e17d9346b93_808206.jpg",
+                "locality": "SAI PRUTHIVI ENCLAVE",
+                "areaName": "KONDAPUR",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Awadhi"
+                ],
+                "avgRating": 4.3,
+                "parentId": "22473",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "652",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 0.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "0.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                            "description": "bolt!"
+                        },
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Mughlai.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "bolt!",
+                                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Mughlai.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/zaza-mughal-biryani-sai-pruthivi-enclave-kondapur-rest808206",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "808205",
+                "name": "NH1 Bowls - Highway To North",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/6e00fc82-68cd-4ea1-affe-e920073b31a2_808205.jpg",
+                "locality": "SAI PRUTHIVI ENCLAVE",
+                "areaName": "KONDAPUR",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Punjabi",
+                    "Home Food"
+                ],
+                "avgRating": 4.6,
+                "parentId": "22452",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1.4K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 0.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "0.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                            "description": "bolt!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "bolt!",
+                                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nh1-bowls-highway-to-north-sai-pruthivi-enclave-kondapur-rest808205",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "20227",
+                "name": "Oven Story Pizza",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/29/f6780c6f-36f1-439c-b8f3-563cdc1e8d92_20227.jpg",
+                "locality": "Hanuman Nagar",
+                "areaName": "Shilpa Hills",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Pastas",
+                    "Italian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "parentId": "3534",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "8.9K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/oven-story-pizza-hanuman-nagar-shilpa-hills-rest20227",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "15158",
+                "name": "Faasos - Wraps, Rolls & Shawarma",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/33d3ec82-4cc5-4aa7-be14-0e58716a608a_15158.JPG",
+                "locality": "Hanuman Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Kebabs",
+                    "Fast Food",
+                    "Snacks",
+                    "American",
+                    "Healthy Food",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "parentId": "21809",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "24K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Rolls.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Rolls.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/faasos-wraps-rolls-and-shawarma-hanuman-nagar-kondapur-rest15158",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "16649",
+                "name": "Behrouz Biryani",
+                "cloudinaryImageId": "a4ffed13eb197c6df43dfe1c756560e5",
+                "locality": "Hanuman Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Kebabs",
+                    "Mughlai",
+                    "Lucknowi",
+                    "Hyderabadi",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4,
+                "parentId": "1803",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "13K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/behrouz-biryani-hanuman-nagar-kondapur-rest16649",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "436725",
+                "name": "Tiffin Depot",
+                "cloudinaryImageId": "fundrz2tguru4dkbl8wn",
+                "locality": "Gachibowli",
+                "areaName": "Nanakramguda",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "South Indian"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "313217",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "12K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 6.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "6.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ],
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "1.5K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/tiffin-depot-gachibowli-nanakramguda-rest436725",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "864018",
+                "name": "The Nawaabs Premium Express",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/3/31/1d95a2ad-02d3-49ed-8932-d18a2e2971cb_864018.jpg",
+                "locality": "Serlingampally Circle No 20",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Biryani",
+                    "Kebabs"
+                ],
+                "avgRating": 4.3,
+                "parentId": "506691",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "2.9K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-ee6cdd8d-310f-4145-bca2-c00758315f76"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-nawaabs-premium-express-serlingampally-circle-no-20-gachibowli-rest864018",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "788230",
+                "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/da69e5d4-cde2-490d-a960-100d6bbba752_788230.JPG",
+                "locality": "ASHA APARTMENT",
+                "areaName": "PRENDERGHAST ROAD",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream Cakes",
+                    "Desserts",
+                    "Ice Cream",
+                    "Bakery"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "21932",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "15",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        },
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/gourmet-ice-cream-cakes-by-baskin-robbins-asha-apartment-prenderghast-road-rest788230",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "40505",
+                "name": "Golden Dragon Multicuisine Restaurant",
+                "cloudinaryImageId": "qfvl8bw4etx3i9xqsy3x",
+                "locality": "MG Road",
+                "areaName": "MG Road",
+                "costForTwo": "₹1000 for two",
+                "cuisines": [
+                    "Chinese",
+                    "North Indian",
+                    "Tandoor"
+                ],
+                "avgRating": 4.5,
+                "parentId": "423",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "9.0K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.2",
+                        "ratingCount": "994"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/golden-dragon-multicuisine-restaurant-mg-road-rest40505",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "767197",
+                "name": "Gabru Di Chaap",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/4/829a3b52-9c1a-4b30-92ef-2b4de4c809cb_767197.jpg",
+                "locality": "Sainikpuri",
+                "areaName": "Sainikpuri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Kebabs",
+                    "Fast Food"
+                ],
+                "avgRating": 4.3,
+                "parentId": "10192",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "751",
+                "sla": {
+                    "deliveryTime": 42,
+                    "lastMileTravel": 5.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 mins",
+                    "lastMileTravelString": "5.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "152"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/gabru-di-chaap-sainikpuri-rest767197",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "956156",
+                "name": "RAJASTHANI DHABA",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/13/91cd49a3-bde4-4de5-90e4-d4d096db9e74_956156.JPG",
+                "locality": "Kharkhana & Trimulgherry",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Rajasthani",
+                    "Chinese",
+                    "Jain",
+                    "North Indian"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "21076",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "128",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 5.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rajasthani-dhaba-kharkhana-and-trimulgherry-rest956156",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "800003",
+                "name": "Quick Crave",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/2/12a2dca9-a9af-4c5e-9fdd-471acf554be8_800003.jpg",
+                "locality": "Plot No 17 Officers Colony",
+                "areaName": "A. S. Rao Nagar",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Fast Food"
+                ],
+                "avgRating": 3.9,
+                "parentId": "478149",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "79",
+                "sla": {
+                    "deliveryTime": 47,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "OnlyOnSwiggy",
+                                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "65% OFF",
+                    "subHeader": "UPTO ₹125"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/quick-crave-plot-no-17-officers-colony-a-s-rao-nagar-rest800003",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056902",
+                "name": "Momo Zone - The Momo Company",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/911ba77b-08e3-4bfa-8f3e-044766edd078_1056902 (1) (1).jpg",
+                "locality": "Musheerabad Circle No 15",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Fast Food"
+                ],
+                "avgRating": 3.4,
+                "parentId": "382343",
+                "avgRatingString": "3.4",
+                "totalRatingsString": "5",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/momo-zone-the-momo-company-musheerabad-circle-no-15-nallakunta-and-vidyanagar-rest1056902",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "729717",
+                "name": "Keventers Waffles & Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/20/b5987abf-a51e-4843-87e0-1eda4192069e_729717.jpg",
+                "locality": "Ministers Road",
+                "areaName": "Sindhi Colony",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4,
+                "veg": true,
+                "parentId": "624796",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "177",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/keventers-waffles-and-ice-cream-ministers-road-sindhi-colony-rest729717",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056889",
+                "name": "Kouzina Kafe - The Food Court",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/a6f2b3ac-d2fc-44a9-a381-eb2f7d2866cf_1056889 (1) (1).jpg",
+                "locality": "Musheerabad ",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Ice Cream"
+                ],
+                "avgRating": 3.5,
+                "parentId": "249027",
+                "avgRatingString": "3.5",
+                "totalRatingsString": "<3",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kouzina-kafe-the-food-court-musheerabad-nallakunta-and-vidyanagar-rest1056889",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "773426",
+                "name": "O-Cakes",
+                "cloudinaryImageId": "cbb5211d6a05ffc14af5aaece12f7ddf",
+                "locality": "P.G.Road",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Bakery"
+                ],
+                "avgRating": 4,
+                "veg": true,
+                "parentId": "4775",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "9",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/o-cakes-p-g-road-secunderabad-rest773426",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "978986",
+                "name": "ITC Aashirvaad Soul Creations",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/14/3ece333e-ea6f-49e5-a9cb-068b8f5c8a57_978986.JPG",
+                "locality": "Mohan Shraddha Complex",
+                "areaName": "Nacharam",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "North Indian",
+                    "pure veg",
+                    "Healthy Food",
+                    "Home Food"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "346141",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "732",
+                "sla": {
+                    "deliveryTime": 45,
+                    "lastMileTravel": 6.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 mins",
+                    "lastMileTravelString": "6.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/itc-aashirvaad-soul-creations-mohan-shraddha-complex-nacharam-rest978986",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "624601",
+                "name": "Scoops",
+                "cloudinaryImageId": "dbfhcioczya3fdr8wlgj",
+                "locality": "Mylargadda",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "1354",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "242",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 4.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "4.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/scoops-mylargadda-nallakunta-and-vidyanagar-rest624601",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "653039",
+                "name": "BK Cafe",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/27/be73691f-ba6a-4677-b09a-60870d15aac9_653039.jpg",
+                "locality": "Praga Mall",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Cafe",
+                    "Snacks"
+                ],
+                "parentId": "337525",
+                "avgRatingString": "--",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bk-cafe-praga-mall-nallakunta-and-vidyanagar-rest653039",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056888",
+                "name": "Slurpy Shakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/a0233fa2-b315-49a5-80cd-23949cca7ace_1056888 (1).jpg",
+                "locality": "Musheerabad Circle No 15",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 3.5,
+                "veg": true,
+                "parentId": "5713",
+                "avgRatingString": "3.5",
+                "totalRatingsString": "<3",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/slurpy-shakes-musheerabad-circle-no-15-nallakunta-and-vidyanagar-rest1056888",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056883",
+                "name": "Cupcake Bliss Cake & Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/9f44a218-a296-45a8-a368-f83e605e72aa_1056883 (1).jpg",
+                "locality": "Musheerabad Circle No 15",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Ice Cream",
+                    "Beverages"
+                ],
+                "avgRating": 3.8,
+                "parentId": "66732",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "5",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/cupcake-bliss-cake-and-desserts-musheerabad-circle-no-15-nallakunta-and-vidyanagar-rest1056883",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056880",
+                "name": "Indiana Burgers",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/21462ea2-4e4a-437b-80c5-5ee3964929e2_1056880 (1).jpg",
+                "locality": "Musheerabad",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 3.6,
+                "parentId": "5714",
+                "avgRatingString": "3.6",
+                "totalRatingsString": "<3",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/indiana-burgers-musheerabad-nallakunta-and-vidyanagar-rest1056880",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "642919",
+                "name": "Say Cheese",
+                "cloudinaryImageId": "022e17a2ed585508e276dd5281adb250",
+                "locality": "PG Road",
+                "areaName": "Secunderabad Circle No.29",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Chaat",
+                    "Snacks",
+                    "Street Food"
+                ],
+                "avgRating": 3.8,
+                "parentId": "1355",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "153",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/say-cheese-pg-road-secunderabad-circle-no-29-rest642919",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "398223",
+                "name": "The Betel Leaf Co - PAAN Originally from Bangalore",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/23/3463442a-11e6-448b-974f-181c89afa7df_398223.jpg",
+                "locality": "PG Road",
+                "areaName": "Begumpet",
+                "costForTwo": "₹100 for two",
+                "cuisines": [
+                    "Paan",
+                    "Desserts",
+                    "Indian",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "513337",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "826",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-betel-leaf-co-paan-originally-from-bangalore-pg-road-begumpet-rest398223",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "402668",
+                "name": "Dumont Creamery",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/30/b3caaaa5-4932-44cd-b337-2385b4e32cdf_402668.jpg",
+                "locality": "AS Rao Nagar",
+                "areaName": "Sainikpuri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Beverages"
+                ],
+                "avgRating": 4.4,
+                "parentId": "235011",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "1.0K+",
+                "sla": {
+                    "deliveryTime": 46,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "250"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/dumont-creamery-as-rao-nagar-sainikpuri-rest402668",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "853627",
+                "name": "Havmor Havfunn Ice Cream",
+                "cloudinaryImageId": "69899de01b169ab8cc7b5c7deed43bec",
+                "locality": "Shop No 8",
+                "areaName": "Kompally",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Cakes",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "94570",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "48",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 11.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "11.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/havmor-havfunn-ice-cream-shop-no-8-kompally-rest853627",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "566292",
+                "name": "Faasos' Signature Wraps & Rolls",
+                "cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+                "locality": "MAHALAXMI TRADE CENTER",
+                "areaName": "Karkhana",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Fast Food",
+                    "Snacks",
+                    "North Indian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "340366",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "206",
+                "sla": {
+                    "deliveryTime": 39,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹129"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/faasos-signature-wraps-and-rolls-mahalaxmi-trade-center-karkhana-rest566292",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "801305",
+                "name": "Makhani Darbar",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/e95599e4-1bed-4cf9-a271-a96c0f2dc3e4_801305.JPG",
+                "locality": "Diamond Point Secunderabad FC",
+                "areaName": "MAHALAXMI TRADE CENTER",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Kebabs",
+                    "Mughlai",
+                    "Beverages",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "parentId": "478595",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "100",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/makhani-darbar-diamond-point-secunderabad-fc-mahalaxmi-trade-center-rest801305",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056900",
+                "name": "The Dessert Zone",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/622415f2-483a-4161-9e0d-d4cc1d3528b7_1056900 (1) (1).jpg",
+                "locality": "Musheerabad Circle No 15",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Bakery"
+                ],
+                "avgRating": 3.8,
+                "parentId": "10414",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "4",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-dessert-zone-musheerabad-circle-no-15-nallakunta-and-vidyanagar-rest1056900",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "64728",
+                "name": "Zam Zam Restaurant",
+                "cloudinaryImageId": "o7aoweehah7nornyu8dz",
+                "locality": "Parade Grounds",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Mughlai",
+                    "Biryani"
+                ],
+                "avgRating": 4,
+                "parentId": "8883",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "3.0K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.1",
+                        "ratingCount": "141"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/zam-zam-restaurant-parade-grounds-secunderabad-rest64728",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "379585",
+                "name": "Secret Kitchen",
+                "cloudinaryImageId": "xoz3o1xpuyreuyj6nzjh",
+                "locality": "Padma Rao Nagar",
+                "areaName": "Padmarao Nagar",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Indian"
+                ],
+                "avgRating": 4.3,
+                "parentId": "179771",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "8.2K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 4.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "729"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/secret-kitchen-padma-rao-nagar-padmarao-nagar-rest379585",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "746452",
+                "name": "Squisito Pizzeria",
+                "cloudinaryImageId": "906c0affa7d8ff78a3e4db88b4433cde",
+                "locality": "Chilakalguda",
+                "areaName": "Padma Rao Nagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 4.2,
+                "parentId": "371533",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "771",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 4.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/squisito-pizzeria-chilakalguda-padma-rao-nagar-rest746452",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "788231",
+                "name": "Baskin Robbins Happyness Shakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/fad367e3-a66c-4994-9db4-324bdd7fa8bb_788231.jpg",
+                "locality": "ASHA APARTMENT",
+                "areaName": "PRENDERGHAST ROAD",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "322848",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "3",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹75 OFF",
+                    "subHeader": "ABOVE ₹499",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/baskin-robbins-happyness-shakes-asha-apartment-prenderghast-road-rest788231",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1079921",
+                "name": "Wow! Kulfi",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/15/a3f86c1e-43d2-413d-ad56-2dc517e38c37_1079921.jpg",
+                "locality": "KAVADIGUDA",
+                "areaName": "Necklace Mall",
+                "costForTwo": "₹120 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 3.8,
+                "veg": true,
+                "parentId": "501088",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "<3",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wow-kulfi-kavadiguda-necklace-mall-rest1079921",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "36249",
+                "name": "Makers Of Milkshakes",
+                "cloudinaryImageId": "a609fd6n9xoowwlivkja",
+                "locality": "Tarnaka",
+                "areaName": "Tarnaka",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Desserts",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "5632",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "4.6K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹139"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.3",
+                        "ratingCount": "657"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/makers-of-milkshakes-tarnaka-rest36249",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "690991",
+                "name": "Ovenfresh Cakes And Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/db097f56-3478-478e-a259-9b55de791d8a_690991.jpg",
+                "locality": "Snehapuri Colony",
+                "areaName": "Tarnaka",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Beverages",
+                    "Ice Cream",
+                    "Sweets",
+                    "Juices",
+                    "Bengali",
+                    "Pizzas"
+                ],
+                "avgRating": 4,
+                "parentId": "1372",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "192",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 6.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹64"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/ovenfresh-cakes-and-desserts-snehapuri-colony-tarnaka-rest690991",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "404513",
+                "name": "The Brooklyn Creamery - Healthy Ice Cream",
+                "cloudinaryImageId": "b1b35780a9b1dfeb26d680506d494eaa",
+                "locality": "Diamond Point Secunderabad Fc",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Healthy Food"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "236673",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "460",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "brand",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "brand"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-brooklyn-creamery-healthy-ice-cream-diamond-point-secunderabad-fc-kharkhana-and-trimulgherry-rest404513",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "464242",
+                "name": "Paradise Biryani",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/21/eda6f2e5-2c82-4b21-ab37-aaad23d93123_464242.jpg",
+                "locality": "MalkajgiriCircle",
+                "areaName": "MALKAJGIRI",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Kebabs",
+                    "North Indian",
+                    "Hyderabadi"
+                ],
+                "avgRating": 4.1,
+                "parentId": "700",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "9.8K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/paradise-biryani-circle-malkajgiri-rest464242",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "33127",
+                "name": "Star Hotel",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/11/49402674-4ded-43d1-a839-90cc25a26fc2_33127.ss.jpg",
+                "locality": "Musheerabad",
+                "areaName": "Musheerabad",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Hyderabadi",
+                    "Mughlai"
+                ],
+                "avgRating": 3.6,
+                "parentId": "4629",
+                "avgRatingString": "3.6",
+                "totalRatingsString": "34K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 6.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 06:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.5",
+                        "ratingCount": "1.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/star-hotel-musheerabad-rest33127",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1056875",
+                "name": "WarmOven Cake & Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/5/45297328-4f01-4a9c-b8c7-431534f91b26_1056875 (1).jpg",
+                "locality": "Musheerabad Circle No 15",
+                "areaName": "Nallakunta & Vidyanagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.4,
+                "parentId": "12853",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "42",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 6.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/warmoven-cake-and-desserts-musheerabad-circle-no-15-nallakunta-and-vidyanagar-rest1056875",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "535535",
+                "name": "Itminaan Matka Biryani - Slow Cooked",
+                "cloudinaryImageId": "e165225d26130103fecf1c40f5dc3669",
+                "locality": "Malkajgiri",
+                "areaName": "MIRJALGUDA MAIN ROAD",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Mughlai"
+                ],
+                "avgRating": 4.2,
+                "parentId": "107673",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "264",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/itminaan-matka-biryani-slow-cooked-malkajgiri-mirjalguda-main-road-rest535535",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "692234",
+                "name": "BOOM - Sub Style Sandwiches",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/c5bbd782-00ef-45a8-aae7-ed1f86cee653_692234.JPG",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Snacks",
+                    "Indian",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "parentId": "401169",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "623",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/boom-sub-style-sandwiches-mirjalguda-main-road-malkajgiri-rest692234",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "681371",
+                "name": "GLOBO Ice Creams Of The World",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/28/04968076-c09c-464e-90e2-e0dd29ea1dfa_681371.JPG",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Bakery"
+                ],
+                "avgRating": 4.7,
+                "parentId": "22303",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "227",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/globo-ice-creams-of-the-world-mirjalguda-main-road-malkajgiri-rest681371",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "977672",
+                "name": "The Ghee Khichdi Project",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/23/ae469aa2-1d91-40ea-add8-29ce3bc2623a_977672.jpg",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "North Indian"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "542647",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "36",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-ghee-khichdi-project-mirjalguda-main-road-malkajgiri-rest977672",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "439952",
+                "name": "Mughal Darbar",
+                "cloudinaryImageId": "oyk4jn1zgqob5mac80r6",
+                "locality": "Ramakrishnapuram",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Lebanese",
+                    "Beverages"
+                ],
+                "avgRating": 3.7,
+                "parentId": "8892",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "36",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹150",
+                    "discountTag": "SAVE BIG"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mughal-darbar-ramakrishnapuram-malkajgiri-rest439952",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "807222",
+                "name": "Sha Sha - Shandaar Shawarma",
+                "cloudinaryImageId": "6264e35a9caacce4b44ad52af3fca8fd",
+                "locality": "Boosareddy Guda",
+                "areaName": "West Marredpally",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Arabian",
+                    "Snacks"
+                ],
+                "avgRating": 4.4,
+                "parentId": "387839",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "688",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sha-sha-shandaar-shawarma-boosareddy-guda-west-marredpally-rest807222",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "740529",
+                "name": "Hola Pasta - Fresh Gourmet Pasta",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/0d125f0f-1c6b-4573-b2cf-c71d31526452_740529.JPG",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Pastas",
+                    "Italian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "418135",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "153",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/hola-pasta-fresh-gourmet-pasta-mirjalguda-main-road-malkajgiri-rest740529",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1077765",
+                "name": "Organic Creamery By Iceberg",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/1/22d1e22f-0272-4ed4-8aa4-f68fc42fbf52_1077765 (1).jpg",
+                "locality": "Secunderabad",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream"
+                ],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "592273",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "110",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/organic-creamery-by-iceberg-secunderabad-rest1077765",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "917785",
+                "name": "Lucky's Restaurant",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/29/1ec3fd06-6af6-439f-9067-87102ffc7345_917785.jpg",
+                "locality": "PLOT NO. 99, VENKATESWARA ENCLAVE,",
+                "areaName": "SUCHITRA ",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Indian"
+                ],
+                "avgRating": 4.1,
+                "parentId": "126768",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1.5K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 11.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "11.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹49"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/luckys-restaurant-plot-no-99-venkateswara-enclave-suchitra-rest917785",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "738913",
+                "name": "Telangana Spice Kitchen",
+                "cloudinaryImageId": "a5197497981a7427ceb17a72bc76a47b",
+                "locality": "SD Road",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19219",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "2.5K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 4.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "4.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:15:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "25% OFF",
+                    "subHeader": "UPTO ₹65"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "3.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/telangana-spice-kitchen-sd-road-secunderabad-rest738913",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "869006",
+                "name": "Fruitoholic Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/19/77261b59-21c7-456b-bd57-910dfa32eef2_869006.jpg",
+                "locality": "East Marredpally",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Ice Cream"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "509504",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "169",
+                "sla": {
+                    "deliveryTime": 38,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹49"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/fruitoholic-ice-cream-east-marredpally-kharkhana-and-trimulgherry-rest869006",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "290955",
+                "name": "King's Palace",
+                "cloudinaryImageId": "94df0297eccdd6a518a519edb7666ff0",
+                "locality": "ECIL",
+                "areaName": "ECIL",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Kebabs",
+                    "Mughlai"
+                ],
+                "avgRating": 4,
+                "parentId": "10692",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "17K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 6.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "1.6K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kings-palace-ecil-rest290955",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "14218",
+                "name": "Temptations",
+                "cloudinaryImageId": "uqoqtd5ufl7nbm96mksh",
+                "locality": "East Marredpalli",
+                "areaName": "East Marredpalli",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chaat",
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "939",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "21K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 2.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "724"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/temptations-east-marredpalli-rest14218",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "422978",
+                "name": "EatFit",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/6/430cfd93-420b-4b09-b4bd-c6843ed9f405_422978.jpg",
+                "locality": "PATNY NAGAR,SARDAR PATEL ROAD",
+                "areaName": "Begumpet",
+                "costForTwo": "₹270 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Healthy Food",
+                    "Tandoor",
+                    "Pizzas",
+                    "North Indian",
+                    "Thalis",
+                    "Biryani"
+                ],
+                "avgRating": 4.4,
+                "parentId": "76139",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "7.6K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Healthy.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Healthy.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/eatfit-patny-nagar-sardar-patel-road-begumpet-rest422978",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "56765",
+                "name": "Keventers - Milkshakes & Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/22/7390ff25-3218-458d-b6e8-40291135803e_56765.jpg",
+                "locality": "PG Road",
+                "areaName": "PG Road",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Ice Cream",
+                    "Desserts",
+                    "Healthy Food"
+                ],
+                "avgRating": 4.2,
+                "parentId": "268997",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "4.6K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "225"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/keventers-milkshakes-and-desserts-pg-road-rest56765",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "665515",
+                "name": "Starbucks Coffee",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/17/866221e0-4e95-4561-8ea4-2e76ed1d3171_665515.JPG",
+                "locality": "Vikrampuri",
+                "areaName": "Rajiv Gandhi Rahadari Road",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Cafe",
+                    "Snacks",
+                    "Desserts",
+                    "Bakery",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.3,
+                "parentId": "195515",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1.0K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png",
+                            "description": "Delivery!"
+                        },
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Cafe.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/starbucks-coffee-vikrampuri-rajiv-gandhi-rahadari-road-rest665515",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1024758",
+                "name": "Krishna Family Dhaba",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/cf55fbae-0d03-4c49-ac76-bcb9c1f427f3_1024758.jpg",
+                "locality": "Nallakunta & Vidyanagar",
+                "areaName": "Warasiguda Padmarao Nagar",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Biryani",
+                    "Fast Food"
+                ],
+                "avgRating": 3.9,
+                "veg": true,
+                "parentId": "120801",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "179",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 6.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/krishna-family-dhaba-nallakunta-and-vidyanagar-warasiguda-padmarao-nagar-rest1024758",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "844793",
+                "name": "Krimmy Thickshakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/4/e18880ff-8a3c-40c4-a4fa-07a00f6300c8_844793.jpg",
+                "locality": "Ramgopalpet",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹198 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Desserts",
+                    "Sweets"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "379165",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "104",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 5.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "5.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹150",
+                    "discountTag": "SAVE BIG"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/krimmy-thickshakes-ramgopalpet-secunderabad-rest844793",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1007703",
+                "name": "Sri Krishna Family Dhaba",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/12/ece73575-0b27-4af2-b31f-d9c686f51e82_1007703.jpg",
+                "locality": "Kharkhana & Trimulgherry",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Biryani",
+                    "Indian"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "339670",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "<3",
+                "sla": {
+                    "deliveryTime": 45,
+                    "lastMileTravel": 5.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "5.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sri-krishna-family-dhaba-kharkhana-and-trimulgherry-rest1007703",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1005357",
+                "name": "Red Bucket Biryani",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/468c5d8a-ebfa-4440-ab73-791d5f477290_1005357.jpg",
+                "locality": "SANIKPURI",
+                "areaName": "DEFENCE COLONY",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani"
+                ],
+                "avgRating": 3.9,
+                "parentId": "538807",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "163",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/red-bucket-biryani-sanikpuri-defence-colony-rest1005357",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1054146",
+                "name": "Dabba & Co.",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/19/b688bddf-d0a6-468b-8355-086bba0e1875_1054146.jpg",
+                "locality": "Plot No 17 Officers Colony",
+                "areaName": "A. S. Rao Nagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Home food",
+                    "Indian",
+                    "Thalis"
+                ],
+                "avgRating": 4,
+                "parentId": "612560",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "22",
+                "sla": {
+                    "deliveryTime": 47,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹89"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/dabba-and-co-plot-no-17-officers-colony-a-s-rao-nagar-rest1054146",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "810108",
+                "name": "Go Zero Ice Creams & Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/24/0f918aa9-da5b-4eb7-91de-c8b0c20a0a4d_810108.JPG",
+                "locality": "Sainathapuram",
+                "areaName": "AS Rao Nagar",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Healthy Food"
+                ],
+                "avgRating": 4.2,
+                "veg": true,
+                "parentId": "343689",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "251",
+                "sla": {
+                    "deliveryTime": 39,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "brand",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "brand"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/go-zero-ice-creams-and-desserts-sainathapuram-as-rao-nagar-rest810108",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "700084",
+                "name": "FB Cakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/30/5d05a05e-ec78-4c8d-bf41-d61ae272630d_700084.jpg",
+                "locality": "Musheerabad",
+                "areaName": "Himayath Nagar",
+                "costForTwo": "₹1500 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Sweets",
+                    "Snacks"
+                ],
+                "avgRating": 4.1,
+                "parentId": "245423",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "345",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:45:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹119"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/fb-cakes-musheerabad-himayath-nagar-rest700084",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "616281",
+                "name": "Bhatti Chicken - Grilled, NOT Fried!",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/20/38fe5730-54a1-4679-ae9b-81ca54e48501_616281.JPG",
+                "locality": "Malkajgiri Circle No.28",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Snacks",
+                    "Fast Food",
+                    "Tandoor"
+                ],
+                "avgRating": 4.2,
+                "parentId": "355286",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "130",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bhatti-chicken-grilled-not-fried-circle-no-28-malkajgiri-rest616281",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "535536",
+                "name": "Mealful Rolls - India's Biggest Rolls",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/c6d98b17-67f6-4ad0-95a8-cf40554297fb_535536.JPG",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Fast Food",
+                    "Snacks",
+                    "North Indian",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "parentId": "10390",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "308",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mealful-rolls-indias-biggest-rolls-mirjalguda-main-road-malkajgiri-rest535536",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "622211",
+                "name": "MOJO Pizza - 2X Toppings",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/12/7dc094c0-5279-4f3e-b730-84cc647c37c4_622211.jpg",
+                "locality": "New Mirjalguda",
+                "areaName": "Rampally",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Italian",
+                    "Fast Food",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "parentId": "11329",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1.6K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mojo-pizza-2x-toppings-new-mirjalguda-rampally-rest622211",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1121111",
+                "name": "Sreedevi Swagruha Foods",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/13/afcd01f2-b169-412b-a134-eb3f43efa50b_1121111.jpg",
+                "locality": "Krishna Nagar Colony",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Sweets"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "193266",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "9",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sreedevi-swagruha-foods-krishna-nagar-colony-kharkhana-and-trimulgherry-rest1121111",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "16022",
+                "name": "New Astoria Restaurant",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/24/950f554a-4857-489c-b60a-14146b9968ea_16022 SS.jpg",
+                "locality": "Nallakunta",
+                "areaName": "RTC-X Road",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Biryani"
+                ],
+                "avgRating": 4.2,
+                "parentId": "19883",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "36K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 7.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "7.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹150 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.6",
+                        "ratingCount": "3.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/new-astoria-restaurant-nallakunta-rtc-x-road-rest16022",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "808714",
+                "name": "Royal Nawab",
+                "cloudinaryImageId": "f47bc6f7c78a81d2dce876f9c0ef023b",
+                "locality": "Circle No 28",
+                "areaName": "Moula Ali",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Indian",
+                    "Chinese",
+                    "Arabian",
+                    "Kebabs",
+                    "Fast Food"
+                ],
+                "avgRating": 4.2,
+                "parentId": "172322",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "2.3K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/royal-nawab-circle-no-28-moula-ali-rest808714",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1007701",
+                "name": "Balaji Family Dhaba",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/12/4d5f10da-c1f4-48b3-a473-2e8e8522d622_1007701.jpg",
+                "locality": "Nallakunta & Vidyanagar",
+                "areaName": "Warasiguda Secunderabad",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "North Indian"
+                ],
+                "avgRating": 4,
+                "veg": true,
+                "parentId": "587887",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "534",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "60% OFF",
+                    "subHeader": "UPTO ₹120"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/balaji-family-dhaba-nallakunta-and-vidyanagar-warasiguda-secunderabad-rest1007701",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "958344",
+                "name": "Kaadhale - Pure Vegetarian Restaurant",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/27/39676053-833f-4dcb-8be3-4c092b18785d_958344.jpg",
+                "locality": "SD Road",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹700 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Desserts",
+                    "South Indian",
+                    "Bakery",
+                    "Beverages",
+                    "Snacks",
+                    "Cafe"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "606544",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "970",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 4.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "2.4K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kaadhale-pure-vegetarian-restaurant-sd-road-secunderabad-rest958344",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "213295",
+                "name": "Krishna KGN Fast Food Centre",
+                "cloudinaryImageId": "sxkm5iq6wxeo4ejqf6xr",
+                "locality": "Begumpet",
+                "areaName": "Prakash Nagar",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "parentId": "120865",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "6.3K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "7.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/krishna-kgn-fast-food-centre-begumpet-prakash-nagar-rest213295",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "62403",
+                "name": "Nani Tiffins",
+                "cloudinaryImageId": "wyl8h2crrokziegibcgd",
+                "locality": "RAGHAVA COLONY",
+                "areaName": "Bowenpally",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "South Indian"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "144049",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "4.2K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 4.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "15% OFF",
+                    "subHeader": "UPTO ₹45"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "63"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nani-tiffins-raghava-colony-bowenpally-rest62403",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "979472",
+                "name": "Deccan Palm Restaurant",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/2dbd9f4a-c2af-4c8c-8cda-bdc171d6564d_979472.jpg",
+                "locality": "Tarnaka, Nacharam & Malkajigiri",
+                "areaName": "Tarnaka, Nacharam & Malkajigiri",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                    "Biryani",
+                    "South Indian",
+                    "Hyderabadi"
+                ],
+                "avgRating": 4.1,
+                "parentId": "573094",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "292",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/deccan-palm-restaurant-tarnaka-nacharam-and-malkajigiri-rest979472",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "375980",
+                "name": "Rollsking",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/28/e8d8767a-d72c-4b54-9c11-733352dcaca1_375980.jpg",
+                "locality": "Rk Puram",
+                "areaName": "Karkhana And Trimulgherry",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Fast Food",
+                    "Rolls & Wraps",
+                    "North Indian",
+                    "Snacks"
+                ],
+                "avgRating": 4.2,
+                "parentId": "4697",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "5.1K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rollsking-rk-puram-karkhana-and-trimulgherry-rest375980",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "912863",
+                "name": "Wow! Chicken By Wow! Momo",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/19/ee770ae4-01d3-4422-a07a-0011c7c1624a_912863.jpg",
+                "locality": "Secunderabad",
+                "areaName": "East Marredpally",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Burger",
+                    "American",
+                    "fastfood"
+                ],
+                "avgRating": 4,
+                "parentId": "268366",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "308",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 2.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "2.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wow-chicken-by-wow-momo-secunderabad-east-marredpally-rest912863",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "654867",
+                "name": "Cream Stone Ice Cream Cakes",
+                "cloudinaryImageId": "67128ba89450832e6712408d5991fe78",
+                "locality": "Maruthi Nagar",
+                "areaName": "Kukatpally",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Ice Cream Cakes"
+                ],
+                "avgRating": 4.8,
+                "veg": true,
+                "parentId": "393971",
+                "avgRatingString": "4.8",
+                "totalRatingsString": "65",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 1.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/cream-stone-ice-cream-cakes-maruthi-nagar-kukatpally-rest654867",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "467951",
+                "name": "Mumbai Masalaa",
+                "cloudinaryImageId": "zy65jmxmtidchsgltyrj",
+                "locality": "Prenderghast road",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese",
+                    "American"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "141499",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1.7K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:15:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹139"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mumbai-masalaa-prenderghast-road-secunderabad-rest467951",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "70054",
+                "name": "Sweet Heart Restaurant",
+                "cloudinaryImageId": "r5tcvxbfczzcczazxa6g",
+                "locality": "Patancheruvu",
+                "areaName": "Bowenpally",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Biryani"
+                ],
+                "avgRating": 4.2,
+                "parentId": "199272",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "50K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 6.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹139"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "9.7K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sweet-heart-restaurant-patancheruvu-bowenpally-rest70054",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "223473",
+                "name": "Biryani Nation",
+                "cloudinaryImageId": "l7zbakif7mdzwubgan0q",
+                "locality": "Malkajgiri",
+                "areaName": "Indra Nagar Colony",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "North Indian",
+                    "Indian",
+                    "Tandoor"
+                ],
+                "avgRating": 4.2,
+                "parentId": "136",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "14K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "ABOVE ₹1000",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "795"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/biryani-nation-malkajgiri-indra-nagar-colony-rest223473",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "251589",
+                "name": "Euphoria",
+                "cloudinaryImageId": "if3oxttqnbedseg0cpbd",
+                "locality": "Paradise",
+                "areaName": "Paradise Cross Roads",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Bakery"
+                ],
+                "avgRating": 4.7,
+                "parentId": "8132",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "615",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/euphoria-paradise-paradise-cross-roads-rest251589",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1136548",
+                "name": "Momo Kraft",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/2/6164066e-0615-4dd0-b957-8f41219425ff_1136548.jpg",
+                "locality": "Murshidabad",
+                "areaName": "Karkhana",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Momos",
+                    "Chinese",
+                    "Tibetan",
+                    "North Indian",
+                    "Asian"
+                ],
+                "parentId": "624323",
+                "avgRatingString": "--",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "65% OFF",
+                    "subHeader": "UPTO ₹125"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/momo-kraft-murshidabad-karkhana-rest1136548",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "535534",
+                "name": "BOX8 - Desi Meals",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/26/9afefb8d-2e0c-4a70-8233-b4d9a4e154f4_535534.jpg",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Biryani",
+                    "Thalis",
+                    "Home Food"
+                ],
+                "avgRating": 4.4,
+                "parentId": "10655",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "2.0K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Mughlai.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Mughlai.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/box8-desi-meals-mirjalguda-main-road-malkajgiri-rest535534",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "150649",
+                "name": "Cream Stone Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/26/38ad8126-0205-4fbd-9bae-a47a1f79e21a_150649.jpg",
+                "locality": "Malkajgiri",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Beverages",
+                    "Ice Cream Cakes"
+                ],
+                "avgRating": 4.6,
+                "parentId": "538712",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "21K+",
+                "sla": {
+                    "deliveryTime": 18,
+                    "lastMileTravel": 1.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/cream-stone-ice-cream-malkajgiri-rest150649",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "312303",
+                "name": "Zomoz - The Momo Company",
+                "cloudinaryImageId": "amldwmlcpio7lgkgeggx",
+                "locality": "Varavu colony",
+                "areaName": "West Marredpally",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Momos",
+                    "Fast Food"
+                ],
+                "avgRating": 4.5,
+                "parentId": "10838",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "5.5K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 2.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "2.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/zomoz-the-momo-company-varavu-colony-west-marredpally-rest312303",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "234589",
+                "name": "Grill 9",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/4/4c4ce474-1ae6-4ef8-978e-c62230622ac7_234589.jpg",
+                "locality": "Begumpet",
+                "areaName": "East Nehru Nagar",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese"
+                ],
+                "avgRating": 4.1,
+                "parentId": "18991",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "33K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹100 OFF",
+                    "subHeader": "ABOVE ₹599",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/grill-9-begumpet-east-nehru-nagar-rest234589",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "43796",
+                "name": "Hotel Swagath Grand - Dhanturi Group of Hotels",
+                "cloudinaryImageId": "ousivnlej6qmnvj1ydzb",
+                "locality": "Malkajgiri",
+                "areaName": "A S Rao Nagar",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "South Indian",
+                    "North Indian",
+                    "Tandoor"
+                ],
+                "avgRating": 4.1,
+                "parentId": "351556",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "45K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:40:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.7",
+                        "ratingCount": "3.4K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/hotel-swagath-grand-dhanturi-group-of-hotels-malkajgiri-a-s-rao-nagar-rest43796",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "482701",
+                "name": "Concu",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/2/564a45fb-03c0-401d-ad30-2d6d225dd4a8_482701.jpg",
+                "locality": "Maredpally",
+                "areaName": "Maredpally",
+                "costForTwo": "₹750 for two",
+                "cuisines": [
+                    "Cafe",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.6,
+                "parentId": "10584",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "2.1K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/concu-maredpally-rest482701",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "47668",
+                "name": "Reddy's Kitchen",
+                "cloudinaryImageId": "iaqz9j8z1etvcl9148vp",
+                "locality": "Malkajgiri",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "North Indian",
+                    "Indian",
+                    "Fast Food"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19155",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "85K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "4.2K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/reddys-kitchen-malkajgiri-rest47668",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "47836",
+                "name": "Vivaha Bhojanambu",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/22/8fa52550-e3a6-4c2a-8bca-67c7ba438b44_47836 (1).jpg",
+                "locality": "Shivaji Nagar",
+                "areaName": "Shivaji Nagar",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "South Indian",
+                    "Biryani",
+                    "Andhra",
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.2,
+                "parentId": "4995",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "27K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.2",
+                        "ratingCount": "12K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/vivaha-bhojanambu-shivaji-nagar-rest47836",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "608718",
+                "name": "Wow! Momo",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/30/649cf6fa-79b5-49e2-8efd-1d5398fd93a9_608718.jpg",
+                "locality": "Entrenchment Road",
+                "areaName": "East Maredpally",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Momos",
+                    "Chinese",
+                    "fastfood",
+                    "Asian",
+                    "Beverages"
+                ],
+                "avgRating": 4.4,
+                "parentId": "1776",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "2.0K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Chinese.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Chinese.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wow-momo-entrenchment-road-east-maredpally-rest608718",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "250748",
+                "name": "Scoops Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/17/74563bb2-d813-4263-a76e-0459bae16e76_250748.JPG",
+                "locality": "Tarnaka, Nacharam & Malkajigiri",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "179483",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "3.3K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 1.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "1.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/scoops-ice-cream-tarnaka-nacharam-and-malkajigiri-malkajgiri-rest250748",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "826604",
+                "name": "Pastas By Pizza Hut",
+                "cloudinaryImageId": "67d17abfeb3a5da6103b9424f6dbe973",
+                "locality": "Lalwani Nagar",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pastas"
+                ],
+                "avgRating": 3.9,
+                "parentId": "306806",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "79",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/pastas-by-pizza-hut-lalwani-nagar-malkajgiri-rest826604",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "610843",
+                "name": "Biryanis And More - Trimulgherry",
+                "cloudinaryImageId": "mea9ibzhb9ot8cjsztg5",
+                "locality": "Kharkhana & Trimulgherry",
+                "areaName": "Trimulgherry",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.1,
+                "parentId": "2612",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1.5K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹129"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "231"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/biryanis-and-more-trimulgherry-kharkhana-and-trimulgherry-rest610843",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "403013",
+                "name": "Swiss Castle",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/4a54feef-7f6f-4e26-85ee-aca14250ae3f_403013.jpg",
+                "locality": "Nallakunta & Vidyanagar",
+                "areaName": "West Maredpally",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Sweets"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "2532",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "4.2K+",
+                "sla": {
+                    "deliveryTime": 18,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/swiss-castle-nallakunta-and-vidyanagar-west-maredpally-rest403013",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "8955",
+                "name": "Reshmi's Classic Restaurant",
+                "cloudinaryImageId": "ymniabeqjiuynnwqptcz",
+                "locality": "SD Road",
+                "areaName": "SD Road",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.5,
+                "parentId": "19639",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "21K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 4.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "1.8K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/reshmis-classic-restaurant-sd-road-rest8955",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "785985",
+                "name": "ABC Charcoal Shawarma",
+                "cloudinaryImageId": "814b69d1bebb9a3f825e117ee43af743",
+                "locality": "Sainikpuri Shopping Centre",
+                "areaName": "SAINIKPURI",
+                "costForTwo": "₹399 for two",
+                "cuisines": [
+                    "North Indian"
+                ],
+                "avgRating": 4.4,
+                "parentId": "467597",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "635",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 5.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "10% OFF",
+                    "subHeader": "UPTO ₹40"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/abc-charcoal-shawarma-shopping-centre-sainikpuri-rest785985",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "112660",
+                "name": "Hotel Super Star",
+                "cloudinaryImageId": "kvoexqkyx1z6qzx3kwlb",
+                "locality": "Shanthi Nagar",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Arabian"
+                ],
+                "avgRating": 4.4,
+                "parentId": "19694",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/hotel-super-star-shanthi-nagar-malkajgiri-rest112660",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "185197",
+                "name": "Rao's Food Plazaa",
+                "cloudinaryImageId": "bhrlfiser5yi1oc3unoh",
+                "locality": "Tarnaka, Nacharam & Malkajigiri",
+                "areaName": "safilguda",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Indian",
+                    "Street Food",
+                    "Fast Food",
+                    "Snacks"
+                ],
+                "avgRating": 4,
+                "parentId": "167043",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "3.6K+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/raos-food-plazaa-tarnaka-nacharam-and-malkajigiri-safilguda-rest185197",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "692779",
+                "name": "balaji dhaba exclusive",
+                "cloudinaryImageId": "b81415dba6f0649935451c06d39d0aad",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "519123",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "999",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/balaji-dhaba-exclusive-kharkhana-and-trimulgherry-rest692779",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "297010",
+                "name": "Garden Restaurant",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/22/5976cb97-2d12-45d3-b5a3-af7348277889_297010 (1).jpg",
+                "locality": "SD Road",
+                "areaName": "Begumpet",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19054",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "30K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.7",
+                        "ratingCount": "3.2K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/garden-restaurant-sd-road-begumpet-rest297010",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "62510",
+                "name": "Ohri's Cake Nation",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/5/51200822-45d2-41da-b85a-968617b8c0cb_62510.jpg",
+                "locality": "SD Road",
+                "areaName": "SD Road",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "233127",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "15K+",
+                "sla": {
+                    "deliveryTime": 18,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "406"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/ohris-cake-nation-sd-road-rest62510",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "860014",
+                "name": "Shanghai Flavours Of China Town",
+                "cloudinaryImageId": "464222ed2a2c5f5b9cd53ca89c8f73e9",
+                "locality": "Sardar Patel Rd",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹900 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Pan-Asian"
+                ],
+                "avgRating": 4.1,
+                "parentId": "181666",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1.8K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/shanghai-flavours-of-china-town-sardar-patel-rd-secunderabad-rest860014",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "8786",
+                "name": "Subway",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/cfe78728-6900-4356-a550-b6991f494e77_8786.jpg",
+                "locality": "Near Clock Tower & Bhasera Hotal ",
+                "areaName": "SD Road Rezimental Bazar",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "sandwich",
+                    "Salads",
+                    "wrap",
+                    "Healthy Food"
+                ],
+                "avgRating": 4.4,
+                "parentId": "2",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "15K+",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹119"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/subway-near-clock-tower-and-bhasera-hotal-sd-road-rezimental-bazar-rest8786",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "106606",
+                "name": "La Pino'z Pizza",
+                "cloudinaryImageId": "ykjvdj6ryur9yabqvwga",
+                "locality": "MG Road",
+                "areaName": "MG Road",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Pastas",
+                    "Italian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "parentId": "4961",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "19K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 5.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:45:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "785"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/la-pinoz-pizza-mg-road-rest106606",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "32565",
+                "name": "Saba Hotel",
+                "cloudinaryImageId": "bv1v0pdzn5mkzboltmiv",
+                "locality": "Lal Bahadur Colony",
+                "areaName": "Trimulgherry",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "parentId": "19920",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "12K+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 4.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/saba-hotel-lal-bahadur-colony-trimulgherry-rest32565",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "915949",
+                "name": "LITTLE HOUSE SHAWARMA",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/26/d91e1e8b-5320-4fe1-a142-a83f8f16f113_915949.jpg",
+                "locality": "Alwal",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Arabian",
+                    "Snacks"
+                ],
+                "avgRating": 4.3,
+                "parentId": "531899",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "171",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.6",
+                        "ratingCount": "190"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/little-house-shawarma-alwal-kharkhana-and-trimulgherry-rest915949",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "639690",
+                "name": "Mandi King",
+                "cloudinaryImageId": "nsspemm7fgpuazpd3qou",
+                "locality": "Parklane",
+                "areaName": "Secunderabad",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese",
+                    "Arabian",
+                    "Desserts"
+                ],
+                "avgRating": 4,
+                "parentId": "19177",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "3.8K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mandi-king-parklane-secunderabad-rest639690",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "6585",
+                "name": "Sahara Bakers",
+                "cloudinaryImageId": "qdglspcmmpgowxs4lccd",
+                "locality": "Himayath Nagar",
+                "areaName": "RTC X Roads",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Bakery",
+                    "Pizzas",
+                    "Snacks",
+                    "Cafe"
+                ],
+                "avgRating": 3.9,
+                "parentId": "19528",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "48K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 7.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "7.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.6",
+                        "ratingCount": "1.4K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sahara-bakers-himayath-nagar-rtc-x-roads-rest6585",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1125695",
+                "name": "Cream Stone Tubz",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/2/b8b590b9-4d0f-4905-b1fc-a2d59a70c601_1125695.jpg",
+                "locality": "Maruthi Nagar",
+                "areaName": "Tarnaka, Nacharam & Malkajigiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "parentId": "649017",
+                "avgRatingString": "--",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 1.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/cream-stone-tubz-maruthi-nagar-tarnaka-nacharam-and-malkajigiri-rest1125695",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "24604",
+                "name": "Domino's Pizza",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/14/580cdbda-08e8-4c1f-b9cc-97515f414d3e_24604.JPG",
+                "locality": "Anandbagh (Malkajgiri)",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Italian",
+                    "Pastas",
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "parentId": "2456",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "17K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/dominos-pizza-anandbagh-malkajgiri-rest24604",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "175159",
+                "name": "Luckys Kitchen",
+                "cloudinaryImageId": "bpmzfullz1wiuxzv2rdo",
+                "locality": "Malkajgiri",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Chinese",
+                    "Tandoor"
+                ],
+                "avgRating": 4.4,
+                "parentId": "126760",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "5.4K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "367"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/luckys-kitchen-malkajgiri-rest175159",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "354313",
+                "name": "Rambharose - Bhattad Ki Idli",
+                "cloudinaryImageId": "yy54bpo7oibuxqyq4xkr",
+                "locality": "Begumpet",
+                "areaName": "Ramgopalpet",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "South Indian",
+                    "Snacks",
+                    "Indian"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "166509",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "12K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 5.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "5.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/rambharose-bhattad-ki-idli-begumpet-ramgopalpet-rest354313",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "643840",
+                "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/df891881-47c9-4a50-8514-05d43c7aeb7b_643840.jpg",
+                "locality": "MIRJALGUDA MAIN ROAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Healthy Food",
+                    "Salads",
+                    "Keto",
+                    "Snacks"
+                ],
+                "avgRating": 4.6,
+                "parentId": "355285",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1.0K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-30 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wefit-protein-bowls-salads-and-sandwiches-mirjalguda-main-road-malkajgiri-rest643840",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "535537",
+                "name": "NH1 Bowls - Highway To North",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/76c8790f-13d3-43db-91e8-2d15bea2efc7_535537.jpg",
+                "locality": "SECUNDERABAD",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Punjabi",
+                    "Home Food"
+                ],
+                "avgRating": 4.5,
+                "parentId": "22452",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1.0K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nh1-bowls-highway-to-north-secunderabad-malkajgiri-rest535537",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "535538",
+                "name": "ZAZA Mughal Biryani",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/3c9fda2c-8b5d-48fe-987d-aee8f9b67071_535538.jpg",
+                "locality": "Malkajgiri",
+                "areaName": "MIRJALGUDA MAIN ROAD",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Awadhi"
+                ],
+                "avgRating": 4.1,
+                "parentId": "22473",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1.1K+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-20 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 02:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Mughlai.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Mughlai.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "₹125 OFF",
+                    "subHeader": "ABOVE ₹299",
+                    "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/zaza-mughal-biryani-malkajgiri-mirjalguda-main-road-rest535538",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "460039",
+                "name": "Master cook Restaurant",
+                "cloudinaryImageId": "bby3wlqonhhme4ofmbok",
+                "locality": "Adarsh nagar",
+                "areaName": "Malkajgiri",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Chinese",
+                    "Arabian",
+                    "Snacks",
+                    "Tandoor",
+                    "Street Food",
+                    "Fast Food"
+                ],
+                "avgRating": 4.3,
+                "parentId": "276337",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "2.8K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/master-cook-restaurant-adarsh-nagar-malkajgiri-rest460039",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "22958",
+                "name": "Alpha Hotel",
+                "cloudinaryImageId": "67cdea02baf3d5f953ab545b3cf8e4ec",
+                "locality": "Shivaji Nagar",
+                "areaName": "Shivaji Nagar",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Mughlai",
+                    "North Indian",
+                    "Chinese",
+                    "Biryani"
+                ],
+                "avgRating": 4.2,
+                "parentId": "19945",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "55K+",
+                "sla": {
+                    "deliveryTime": 27,
+                    "lastMileTravel": 4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "21K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/alpha-hotel-shivaji-nagar-rest22958",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "18063",
+                "name": "SANTHI DHABA PLATNIUM",
+                "cloudinaryImageId": "rik30xs3lupfastfmy2f",
+                "locality": "Opp Kharjhana Police Station",
+                "areaName": "Karkhana",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Chinese"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "559631",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "40K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:30:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "pureveg",
+                                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/santhi-dhaba-platnium-opp-kharjhana-police-station-karkhana-rest18063",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "131870",
+                "name": "4M Biryani House",
+                "cloudinaryImageId": "o685uklvqias8ez1qgxz",
+                "locality": "Musheerabad",
+                "areaName": "Musheerabad",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Tandoor",
+                    "Chinese"
+                ],
+                "avgRating": 4.4,
+                "parentId": "19646",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "88K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "6.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 05:55:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "options available"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "30% OFF",
+                    "subHeader": "UPTO ₹75"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "7.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/4m-biryani-house-musheerabad-rest131870",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "92498",
+                "name": "Sweet Truth - Cake and Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/19/957adc52-e81c-4319-8ced-85779bab68f7_92498.jpg",
+                "locality": "MAHALAXMI TRADE CENTER",
+                "areaName": "Karkhana",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Ice Cream",
+                    "Bakery",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "parentId": "4444",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1.7K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹79"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/sweet-truth-cake-and-desserts-mahalaxmi-trade-center-karkhana-rest92498",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "659373",
+                "name": "Polar Bear",
+                "cloudinaryImageId": "57262fe3839f0bff174f3d7e7cc8a2b4",
+                "locality": "Habsiguda",
+                "areaName": "Vikrampuri",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Ice Cream Cakes"
+                ],
+                "avgRating": 4.5,
+                "parentId": "726",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "902",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 7.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "7.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.8",
+                        "ratingCount": "1.6K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/polar-bear-habsiguda-vikrampuri-rest659373",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "4650",
+                "name": "Bawarchi",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/1/18e82e92-4f9b-4225-abdd-5ed040f970d9_4650.jpg",
+                "locality": "Himayath Nagar",
+                "areaName": "RTC X Road",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Tandoor",
+                    "Chinese",
+                    "Indian",
+                    "Desserts",
+                    "Kebabs",
+                    "Mughlai"
+                ],
+                "avgRating": 4.4,
+                "parentId": "100",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "661K+",
+                "sla": {
+                    "deliveryTime": 36,
+                    "lastMileTravel": 7.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "7.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "25% OFF",
+                    "subHeader": "UPTO ₹65"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "82K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/bawarchi-himayath-nagar-rtc-x-road-rest4650",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "608719",
+                "name": "Wow! China",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/f2c2d08c-bd20-4bdb-9cc8-7dffb9172593_608719.JPG",
+                "locality": "Entrenchment Road",
+                "areaName": "East Maredpally",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Asian",
+                    "fastfood",
+                    "Beverages",
+                    "Snacks"
+                ],
+                "avgRating": 4.2,
+                "parentId": "226836",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "1.4K+",
+                "sla": {
+                    "deliveryTime": 39,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:30:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/wow-china-entrenchment-road-east-maredpally-rest608719",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "189390",
+                "name": "The Biryani Life",
+                "cloudinaryImageId": "i4pf13r3cug6gdon0q4p",
+                "locality": "MAHALAXMI TRADE CENTER",
+                "areaName": "Karkhana",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Mughlai",
+                    "Lucknowi",
+                    "Hyderabadi",
+                    "Kebabs",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 3.9,
+                "parentId": "8496",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "1.0K+",
+                "sla": {
+                    "deliveryTime": 38,
+                    "lastMileTravel": 4.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "4.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹149"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/the-biryani-life-mahalaxmi-trade-center-karkhana-rest189390",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "1033683",
+                "name": "CHICHA JOHN'S - CJ'S cafe",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/5/cd0ecd50-5d52-4f48-b210-941e4d3e54a6_1033683.jpg",
+                "locality": "Kharkhana & Trimulgherry",
+                "areaName": "Kharkhana & Trimulgherry",
+                "costForTwo": "₹499 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Biryani",
+                    "South Indian",
+                    "Mughlai",
+                    "Hyderabadi",
+                    "Tandoor",
+                    "Street Food",
+                    "Snacks",
+                    "Fast Food"
+                ],
+                "avgRating": 4.3,
+                "parentId": "606980",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "234",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 2.8,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "2.8 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "20% OFF",
+                    "subHeader": "UPTO ₹50"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/chicha-johns-cjs-cafe-kharkhana-and-trimulgherry-rest1033683",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        },
+        {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "51970",
+                "name": "Have More Restaurant",
+                "cloudinaryImageId": "z1ivr68uksp9d7ypbfad",
+                "locality": "SD Road",
+                "areaName": "SD Road",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Biryani",
+                    "Haleem",
+                    "Arabian",
+                    "Indian",
+                    "Tandoor",
+                    "Seafood",
+                    "Desserts",
+                    "Mughlai",
+                    "Fast Food"
+                ],
+                "avgRating": 4,
+                "parentId": "9191",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "60K+",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:59:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹99"
+                },
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "3.8",
+                        "ratingCount": "6.2K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-d9af6665-f2dc-4cf2-9139-e3238160cee8"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/have-more-restaurant-sd-road-rest51970",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+        }
+    ]
+    }
+]
+
+    export default restList;

@@ -1,4 +1,4 @@
-Episode 2:
+# Episode 2:
 
 -> Bundler does the following:
         --minify the code
@@ -158,9 +158,75 @@ const HeadingComponent = () => (
 -> We can use Java script within the JSX, because of Babel
 
 
-Episode:4 -> Talk is cheap, show me the code:
+# Episode:4 -> Talk is cheap, show me the code:
  -> Passing props to functional component is like passing arguments to a function.
 
  -> config driven UI
  -> whenever you are looping using map, give a key.
  -> not using keys (not acceptable) <<<<<< index as key(use as last resort) <<<<<<<<<<<< unique id (best practice)
+
+
+ # Episode:5-> Let's Get Hooked.
+
+ ->Best practice is to have each component in a different file with the component as filename.
+
+ ->Before importing the component to App.js, the component should be exported.
+ -> By default we can only export one thing from one file, to export multiple things from one file, we have to use named export.
+ -> for importing a default export we dont need {}, but for importing a named export we need {}
+   
+   - named export : export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+
+   - importing a named export : import {LOGO_URL} from "../utils/constants";
+
+ -> so,There are two types of export and import.
+     - Default Export/Import
+         export default Component;
+         import Component from "path"
+     - Named Export/Import
+        export const Component;
+        import { Component } from "path"  
+
+# React Hooks
+ (Normal JS utility functions written by facebook developers.)
+ - useState() -> used to create Superpowerful state variable in react.
+ - useEffect()
+
+ Creating a normal JS Variable
+ - const listOfResturants = [];
+ Creating a state variable
+ - const [listOfRestaurants,setListOfRestaurants] = useState([]);
+   - we will be looping over the listOfResturants and update/modify we have to update to setListofRestaurants.
+   - As soon as the state variabe is update (i.e by setting new values to setListofRestaurants), react re-renders the component.
+# React is good at DOM manipulations
+  -> React uses Reconciliation Algorithm(Also called as React Fiber)
+  -> Virtual DOM is a representation of the actual DOM.
+  -> React uses DIFF algorithm to find the difference between old virtual dom and the new virtual dom
+
+ # React Fiber:
+ React Fiber Explanation
+ What is React Fiber?
+  - Acomplete rewrite of React's core algorithm
+  - Introduced in React 16
+  - Internal implementation of React's reconciliation algorithm
+ Key Features
+  - Incremental Rendering
+  - Splits rendering work into chunks
+  - Can pause, resume, and prioritize rendering tasks
+ Priority Levels
+  - Different types of updates get different priority:
+  - High: User interactions (clicks, input)
+  - Low: Data updates, network responses
+ Main Concepts 
+  - Reconciliation: Process of updating the DOM
+  - Work Units: Smallest units of work
+  - Virtual DOM: Tree of React elements
+  - Fiber Tree: Internal representation of component tree
+ Benefits
+  - Better Performance
+  - Smoother animations
+  - Responsive user input
+  - Efficient background updates
+Concurrent Features
+  - Suspense
+  - Concurrent Mode
+  - Time Slicing

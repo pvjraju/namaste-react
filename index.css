@@ -52,3 +52,8 @@
 .header > .nav-items > ul > li:hover {
     cursor: pointer;
 }
+
+.filter-btn{
+   margin: 10px;
+   cursor: pointer;
+}
