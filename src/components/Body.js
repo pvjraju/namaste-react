@@ -1,32 +1,82 @@
 import React from 'react';
 import RestuarantCard from './RestuarantCard';
-import restList from '../utils/mockdata';
 import { useState } from "react"
+import { useEffect } from "react";
+import Shimmer from './Shimmer';
 
 
 
 
 const Body = () => {
 
- const swiggyData = require('./swiggy_real_data_2.json'); 
- const arr = useState(swiggyData.restaurants);
+ //const swiggyData = require('./swiggy_real_data_2.json'); 
+ //const arr = useState(swiggyData.restaurants);
+//const listOfRestaurants = arr[0];
+//const setListOfRestaurants = arr[1];
 //Local State Variables - Super powerful variable
-//const [listOfRestaurants, setListOfRestaurants] = require('./swiggy_real_data_2.json'); ;
-const listOfRestaurants = arr[0];
-const setListOfRestaurants = arr[1];
+//const swiggyData = require('./swiggy_real_data_2.json'); 
+const [listOfRestaurants, setListOfRestaurants] = useState([]);
+const [filteredRestaurant, setFilteredRestaurant] = useState([]);
+
+const [searchText, setSearchText] = useState([]);
+
+
+useEffect(() => {
+  setTimeout(fetchData, 2000);
+},[] );
+
+console.log("Body Rendered");
+
+const fetchData = async () => {
+  //const data = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4625121&lng=78.3422633&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
+  //const json = await data.json();
+  const swiggyData = await require('./swiggy_real_data_2.json'); 
+  //const filteredJson = json.data.cards.slice(3);
+  //console.log("filteredJson :: " + filteredJson);
+  //setListOfRestaurants(filteredJson.map((card) => card.card.card));
+
+  setListOfRestaurants(swiggyData.restaurants);
+  setFilteredRestaurant(swiggyData.restaurants);
+};
+
+//Conditional Rendering
+/*if(listOfRestaurants.length === 0) {
   return (
+    <div className="loading">
+      <Shimmer />
+    </div>
+  );
+}*/
+
+  return listOfRestaurants.length === 0 ? <Shimmer /> : (
    <div className="body">
     <div className="filter">
+      <div className='search'>
+         <input type="text" className="search-box" value={searchText}
+         onChange={(e) => {
+          setSearchText(e.target.value);
+         }}
+         />
+         <button className='search-btn'
+         onClick={() => {
+            console.log(searchText);
+            const filteredRestaurants = listOfRestaurants.filter(
+              (res) => res.info.name.toLowerCase().includes(searchText.toLowerCase())
+            );
+            setFilteredRestaurant(filteredRestaurants);
+         }}
+         >search</button>
+      </div>
       <button className="filter-btn" 
       onClick={() => {
         const filteredList = listOfRestaurants.filter(
           (res) => res.info.avgRating > 4.6
         );
-        setListOfRestaurants(filteredList);
+        setFilteredRestaurant(filteredList);
       }}>Top Rated Restaurants</button>
     </div>
     <div className="res-container">
-        {listOfRestaurants.map((res) => {
+        {filteredRestaurant.map((res) => {
            return <RestuarantCard key={res.info.id} resData={res.info} />
         })}
     </div>

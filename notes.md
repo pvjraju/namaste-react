@@ -230,3 +230,57 @@ Concurrent Features
   - Suspense
   - Concurrent Mode
   - Time Slicing
+
+
+# Chapter-06: Exploring the world.
+
+Better API approach for React:
+  page loads -> Render -> API call -> Render
+
+-> useEffect Hook:
+      useEffect(CallbackFunction, Dependency Array);
+    -> useEffect's-> callBackFunction will be called after the component renders
+
+    useEffect(() => {
+      fetchData();
+     },[] );
+     
+-> fetch() is a super function given by the browsers.
+    fetch() method returns a promise
+      -> Two ways to resolve a promise
+          -> using .then and .catch (traditional way)
+          -> Async await (Newer and better approach.)
+
+# CORS -> Cross Origin Request Sharing
+   Browsers don't allow websites on one url to request data from different url.(Read more about it.)
+
+# Latest UI Standard.
+  -> Shimmer UI -> components loads -> Render Shimmer UI (skeleton) -> API -> Render with API data.
+
+# Conditional Rendering.
+  -> Rendering based on a conditon is called condtional rendering.
+  
+    if(listOfRestaurants.length === 0) {
+    return (
+      <div className="loading">
+        <Shimmer />
+      </div>
+    );
+   }
+
+# useState rendering
+   export const Header = () => {
+      const [btnNameReact, setBtnNameReact] = useState("Login");  
+      <button className="login"
+             onClick={() =>{
+              setBtnNameReact("Logout");
+              console.log("Login button clicked :: " + btnNameReact);
+             }}
+            >{btnNameReact}</button>
+
+    }
+    Question: How are we allowed to change the value of btnNameReact, even though it is a const variable.
+    ANS: when setBtnNameReact("Logout") is called, react keeps track on this value and re-renders the Header component(by just calling the header component).when the component is rendering, it creates a new instance of btnNameReact with the updated value.
+
+  # So whenever state variable updated, react triggers a reconciliation cycle(Re Renders the component)
+ 
