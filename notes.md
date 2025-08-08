@@ -390,3 +390,113 @@ return (
   React uses Client side routing, because we won't be making network call to switch between pages. Since all components are loaded at the start, going to a different page is nothing but switching to that component.
 - Server side Routing
   Earlier days when using <a> tags, when we switch to a page, we are making a network call to get that page's information from server and load/render on the page.
+
+# Episode-08: Let's Get Classy
+
+Eventhough class based components is an old way of creating components in react, compared to the functional components,
+understanding it helps us to understand the inner working of react better.
+
+-> Class component is a regular javaScript class, that has a render method, which return's the JSX content.
+
+import React from "react";
+class UserClass extends React.Component {
+render() {
+return (
+//JSX content
+);
+}
+}
+export default UserClass;
+
+# Recieving Props:
+
+# Class component:
+
+- use a construction and call super inside the constructor.
+  constructor(props) {
+  super(props);
+  console.log(props);
+  }
+
+- if we don't class the super method, and refer to props using this (this.props.name), the following error will be thrown.
+  ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor.
+  (Read more about it.)
+
+# Functional component:
+
+const User = (props) => {
+return (
+
+<h1>{props.user}</h1>
+);
+}
+
+# Creating state variables:
+
+# Functional component:
+
+- import useState hook.
+  const [count] = useState(0);
+
+To access it inside return()
+
+   <h1>Count : {count} </h1>
+
+# Class based component:
+
+constructor(props) {
+super(props);
+this.state = {
+count: 0,
+count1: 1,
+count2: 2
+};
+}
+
+To access it inside the return() of render():
+
+  <h1>Count : {this.state.count} </h1>
+
+# this.state is an object that will hold all the state variables, so we can multiple state variable at the same place, rather than using useState hook, where we will be calling useState() hook for each state variable creation.
+
+# # Never update the state variable directly
+
+## Updating the class component state variable.
+
+    <button
+      onClick={() => {
+      this.setState({
+      count: this.state.count + 1,
+    });
+    }} >
+      Increment
+      </button>
+
+# even if the state object has multiple state variable in it, when updating using setState, we can just give the variables we want to update, the other state variable are not effected.
+
+# ComponentDidMount method in class based component is similar to useEffect hook in functional component.
+
+componentDidMount() {
+console.log("Child compoment Did mount.");
+}
+
+# refer this for the diagram : [text](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+# lifecycle happens in two phases:
+
+          -> Render phase : constructor() -> render()
+          -> Commit phase : React updates DOM and refs -> (componentDidMount / componentDidUpdate / componentWillUnMount)
+
+# React optimizes, it will batch the render phase of the child components and then batches the commit phase of the child components.
+
+# Since the DOM manipulation is a costly/slow process, react renders all the child components at once, where it will generate the virtual dom, render happens very fast and the diff is identified. it then do the commit phase(DOM manipulation) for all at once.
+
+Parent Constructor
+About.js:16 Parent Render
+UserClass.js:10 P.V.J.Raju (Class)Child Constructor
+UserClass.js:19 Child render
+UserClass.js:10 P.V.J.Raju2 (Class)Child Constructor
+UserClass.js:19 Child render
+UserClass.js:14 P.V.J.Raju (Class)Child compoment Did mount.
+UserClass.js:14 P.V.J.Raju2 (Class)Child compoment Did mount.
+About.js:12 Parent component did mount.
