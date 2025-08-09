@@ -500,3 +500,94 @@ UserClass.js:19 Child render
 UserClass.js:14 P.V.J.Raju (Class)Child compoment Did mount.
 UserClass.js:14 P.V.J.Raju2 (Class)Child compoment Did mount.
 About.js:12 Parent component did mount.
+
+# Mounting with API call, before do the api call in ComponentDidMount, we are setting the state variable with dummy data.
+
+- MOUNTING
+  - constructor (dummy data)
+  - Render (dummy data)
+    <HTML Dummy data>
+  - Component Did Mount
+    <API Call>
+    <this.setState> -> State variable is updated.
+- UPDATE
+  render(API Data)
+   <HTML (new API data)>
+   componentDidUpdate
+
+# Never compare react lifecycle methods with function component. useEffect is not similar to componentDidUpdate.
+
+# functional way, to do something when count is changed
+
+useEffect( () => {
+//do something
+},[count]);
+
+# class component way, to do something when count is changed.
+
+componentDidUpdate(prevProps, prevState) {
+if(this.state.count !== prevstate.count){
+//do some thing.
+}
+}
+
+# use case of componentWillUnmount.
+
+componentDidMount() {
+this.timer = setInterval(() => {
+console.log("I am ticking....)
+}, 1000)
+}
+
+componentWillUnmount() {
+clearInterval(this.timer);
+console.log("Component will un Mount");
+}
+
+# How to achieve this in fucntional way of useEffect
+
+useEffect(() => {
+this.timer = setInterval( () =>
+{
+console.log("I am ticking...");
+},1000);
+
+return() = {
+clearInterval(timer);
+console.log("useEffect Return")
+}
+});
+
+# Questions for reasearch.
+
+# why do we call super(props) inside the constructor of React class component?
+
+    By calling super(props), you ensure that the parent class (React.Component) performs its necessary initializations, allowing your component to function correctly within the React framework. This is crucial for accessing this.props and setting up the component’s initial state based on the props.
+
+# why do we have to make the componentDidMount async, to make any api call inside it. and why can't we use async for useEffect.
+
+      Why make componentDidMount async?
+      You often want to perform side effects like fetching data right after a component mounts.
+
+      You can define componentDidMount as an async function, or better, call an inner async function from it. Making it async lets you use await syntax for cleaner, readable code when handling API calls.
+
+      There’s no strict requirement from React—componentDidMount can be async only if you want to use await for API calls. Otherwise, it's fine to use Promises directly inside it.
+
+      componentDidMount does not expect a return value, so returning a Promise from an async lifecycle method has no technical consequence for React. That’s why using async is allowed.
+
+      Why can't you use async for useEffect?
+      The callback function passed to useEffect must return either:
+
+      nothing (undefined), or
+
+      a cleanup function (executed on unmount/re-run).
+
+      An async function always returns a Promise, not a cleanup function or undefined. This breaks React’s expectations for what the effect callback should return.
+
+      If you use an async function directly as the effect callback, React receives a Promise, so it can't run the cleanup logic correctly and may lead to bugs or memory leaks.
+
+      To handle async calls in useEffect, you should:
+
+      Define an async function inside the effect and call it (not returning the Promise), or
+
+      Use an immediately-invoked async function (IIFE) inside the synchronous callback.

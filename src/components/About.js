@@ -17,11 +17,10 @@ class About extends Component {
     return (
       <div>
         <h1> This is the About us page.</h1>
-        <User name={"P.V.J.Raju (function)"} location={"Kallal_Fucntional"} />
-
-        <UserClass name={"P.V.J.Raju (Class)"} location={"Kallal_Class"} />
-
-        <UserClass name={"P.V.J.Raju2 (Class)"} location={"Kallal_Class2"} />
+        <UserClass
+          name={"P.V.J.Raju (function)"}
+          location={"Kallal_Fucntional"}
+        />
       </div>
     );
   }
