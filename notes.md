@@ -591,3 +591,63 @@ console.log("useEffect Return")
       Define an async function inside the effect and call it (not returning the Promise), or
 
       Use an immediately-invoked async function (IIFE) inside the synchronous callback.
+
+# Episode-09: Optimizing our App.
+
+# Hooks are nothing but utiliy functions.
+
+# you can create custom hooks and use them as utility methods.
+
+import { useEffect, useState } from "react";
+import { MENU_API } from "./constants";
+
+const useRestaurantMenu = (resId) => {
+const [resInfo, setResInfo] = useState(null);
+
+//fetch data
+useEffect(() => {
+fetchData();
+}, []);
+
+const fetchData = async () => {
+const data = await fetch(MENU_API + resId);
+const json = await data.json();
+setResInfo(json);
+};
+
+return resInfo;
+};
+
+export default useRestaurantMenu;
+
+To use the custom hook, you call it like any other hook.
+const data = fetchData(1234);
+
+# Chunking / Code splitting / Dynamic Bundling / Lazy loading / On demand loading
+
+Since in the end the bundler will merge all the code into one single js file, if we hundreds of components, the file size may increase drastically.
+
+So, we can opt for lazy loading of a Component.
+let's take an example of swiggy, where we have food delivery, instamart and dineout.
+now we want to load the instamart and it's child components only when the user tries to go into that.
+
+so, using lazy loading we can chunk our app into multiple js files instead on one js file.
+
+so, in the homepage instead of importing the Instamart component directly, we will be using the method
+
+lazy -> provided by React
+const Grocery = lazy(() => import("./components/Instamart"));
+
+React will throw an error, if we use only lazy without Suspence, since the file of Instmart will be loaded once clicked, but react renders even faster, by the time it tries to render, the file/component may not be loaded still.
+
+<Suspense> is again given by React.
+In our Router, we have to enclose the Instamart component with Suspense.
+
+{
+path: "/grocery",
+element: (
+<Suspense fallback={<h1>I am still loading</h1>}>
+<Grocery />
+</Suspense>
+),
+},
