@@ -651,3 +651,26 @@ element: (
 </Suspense>
 ),
 },
+
+# Episode-10 : Styling the App.
+
+# Ways to add styling in React
+
+-> CSS
+-> SASS
+-> Styled components
+-> Material UI
+-> BootStrap
+-> Chakra UI
+-> Ant design
+-> Tailwind CSS
+
+# Tailwind CSS
+
+"Rapidly build modern websites without ever leaving your HTML."
+
+-> Bundler(Parcel) uses postcss to understand tailwind
+
+Pros: styling can be written in the html file only, instead of switching to css file.
+
+Cons: with more styling added, the jsx/html code may appear clumsy.
