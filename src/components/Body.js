@@ -1,5 +1,5 @@
 import React from "react";
-import RestuarantCard from "./RestuarantCard";
+import RestuarantCard, { withPromotedLabel } from "./RestuarantCard";
 import { useState } from "react";
 import { useEffect } from "react";
 import Shimmer from "./Shimmer";
@@ -17,6 +17,8 @@ const Body = () => {
 
   const [searchText, setSearchText] = useState([]);
 
+  const RestaurantCardPromoted = withPromotedLabel(RestuarantCard);
+
   useEffect(() => {
     setTimeout(fetchData, 2000);
   }, []);
@@ -26,7 +28,7 @@ const Body = () => {
   const fetchData = async () => {
     //const data = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4625121&lng=78.3422633&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
     //const json = await data.json();
-    const swiggyData = await require("./swiggy_real_data_2.json");
+    const swiggyData = await require("./swiggy_real_data_3_withPromoted");
     //const filteredJson = json.data.cards.slice(3);
     //console.log("filteredJson :: " + filteredJson);
     //setListOfRestaurants(filteredJson.map((card) => card.card.card));
@@ -91,9 +93,13 @@ const Body = () => {
         </div>
       </div>
       <div className="flex flex-wrap">
-        {filteredRestaurant.map((res) => {
-          return <RestuarantCard key={res.info.id} resData={res.info} />;
-        })}
+        {filteredRestaurant.map((res) =>
+          res.info.promoted ? (
+            <RestaurantCardPromoted key={res.info.id} resData={res.info} />
+          ) : (
+            <RestuarantCard key={res.info.id} resData={res.info} />
+          )
+        )}
       </div>
     </div>
   );

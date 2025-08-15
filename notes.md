@@ -674,3 +674,11 @@ element: (
 Pros: styling can be written in the html file only, instead of switching to css file.
 
 Cons: with more styling added, the jsx/html code may appear clumsy.
+
+# Episode-11: Data is the New Oil.
+
+# Higher order components:
+
+->Higher order component is a function that take a component as input and enhances/ change it a bit and returns a component as output.
+
+-> Ui Layer will be powered by the data layer.

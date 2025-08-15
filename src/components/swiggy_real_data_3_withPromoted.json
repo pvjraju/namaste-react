@@ -1,0 +1,497 @@
+{
+    "restaurants": [
+        {
+            "info": {
+                "id": "345899",
+                "name": "Theobroma",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/23/9ccd20ba-cc6b-4d1c-8667-70eeead89372_345899.JPG",
+                "locality": "Gachibowli",
+                "areaName": "Gachibowli",
+                "costForTwo": "₹400 for two",
+                "promoted": true,
+                "cuisines": [
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "parentId": "1040",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "11K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 3.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "3.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                            "description": "Delivery!"
+                        },
+                        {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                                    }
+                                },
+                                {
+                                    "attributes": {
+                                        "description": "Gourmet",
+                                        "imageId": "newg.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹49"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "453"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/theobroma-gachibowli-rest345899",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "256893",
+                "name": "McDonald's",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/3/3af07d04-7c4d-41a9-b9a0-415ea4d79a4b_256893.jpg",
+                "locality": "Hyderabad Kondapur LG",
+                "areaName": "Forest Dept Colony",
+                "costForTwo": "₹400 for two",
+                "promoted": false,
+                "cuisines": [
+                    "Burgers",
+                    "Beverages",
+                    "Cafe",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "parentId": "630",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "27K+",
+                "sla": {
+                    "deliveryTime": 33,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 00:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/mcdonalds-kondapur-lg-forest-dept-colony-rest256893",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "155268",
+                "name": "Pizza Hut",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/690529d2-db8a-4883-9aa3-c4503d538b11_155268.JPG",
+                "locality": "Kondapur",
+                "areaName": "Kondapur",
+                "costForTwo": "₹350 for two",
+                "promoted": true,
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 3.9,
+                "parentId": "721",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "8.4K+",
+                "sla": {
+                    "deliveryTime": 44,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "40-45 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "50% OFF",
+                    "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "1.1K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-kondapur-rest155268",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "727188",
+                "name": "NIC Ice Creams",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/8/78fcaba0-147f-4464-a22e-5769357fa09f_727188.JPG",
+                "locality": "Raja Rajeshwari Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹120 for two",
+                "promoted": false,
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts"
+                ],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "6249",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "2.1K+",
+                "sla": {
+                    "deliveryTime": 16,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 03:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "textExtendedBadges": [
+                        {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "brand",
+                            "fontColor": "#7E808C"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "",
+                                        "fontColor": "#7E808C",
+                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                        "shortDescription": "brand"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹124"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/nic-ice-creams-raja-rajeshwari-nagar-kondapur-rest727188",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "456004",
+                "name": "KFC",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/ae2392f1-d1e5-4261-941d-67db1bb236fb_456004.JPG",
+                "locality": "Raja Rajeshwar Nagar",
+                "areaName": "Kondapur",
+                "costForTwo": "₹400 for two",
+                "promoted": true,
+                "cuisines": [
+                    "Burgers",
+                    "Fast Food",
+                    "Rolls & Wraps"
+                ],
+                "avgRating": 4.1,
+                "parentId": "547",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "2.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-18 01:00:00",
+                    "opened": true
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {
+                            "badgeObject": [
+                                {
+                                    "attributes": {
+                                        "description": "Delivery!",
+                                        "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                    }
+                                }
+                            ]
+                        },
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/kfc-raja-rajeshwar-nagar-kondapur-rest456004",
+                "type": "WEBLINK"
+            }
+        },
+        {
+            "info": {
+                "id": "129541",
+                "name": "Burger King",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/fb9d5e49-6ac1-47b9-9c03-226c3be056a4_129541.jpg",
+                "locality": "Capital Mall",
+                "areaName": "Forest Dept Colony",
+                "costForTwo": "₹350 for two",
+                "promoted": false,
+                "cuisines": [
+                    "Burgers",
+                    "American"
+                ],
+                "avgRating": 4.2,
+                "parentId": "166",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "36K+",
+                "sla": {
+                    "deliveryTime": 48,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "45-50 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2025-07-17 23:00:00",
+                    "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                    "entityBadges": {
+                        "imageBased": {},
+                        "textBased": {},
+                        "textExtendedBadges": {}
+                    }
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "ITEMS",
+                    "subHeader": "AT ₹59"
+                },
+                "differentiatedUi": {
+                    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    "differentiatedUiMediaDetails": {
+                        "lottie": {},
+                        "video": {}
+                    }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "--"
+                    }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+            },
+            "analytics": {
+                "context": "seo-data-637cdb49-f835-4238-b1a9-445de100f290"
+            },
+            "cta": {
+                "link": "https://www.swiggy.com/city/hyderabad/burger-king-capital-mall-forest-dept-colony-rest129541",
+                "type": "WEBLINK"
+            }
+        }
+    ]
+}
