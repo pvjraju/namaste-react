@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import RestuarantCard, { withPromotedLabel } from "./RestuarantCard";
 import { useState } from "react";
 import { useEffect } from "react";
 import Shimmer from "./Shimmer";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 const Body = () => {
   //const swiggyData = require('./swiggy_real_data_2.json');
@@ -28,7 +29,7 @@ const Body = () => {
   const fetchData = async () => {
     //const data = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.4625121&lng=78.3422633&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING");
     //const json = await data.json();
-    const swiggyData = await require("./swiggy_real_data_3_withPromoted");
+    const swiggyData = await require("./swiggy_real_data_2.json");
     //const filteredJson = json.data.cards.slice(3);
     //console.log("filteredJson :: " + filteredJson);
     //setListOfRestaurants(filteredJson.map((card) => card.card.card));
@@ -51,6 +52,9 @@ const Body = () => {
   if (onlineStatus === false) {
     return <h1>You are offline</h1>;
   }
+
+  const { loggedInUser, setUserInfo } = useContext(UserContext);
+
   return listOfRestaurants.length === 0 ? (
     <Shimmer />
   ) : (
@@ -90,6 +94,14 @@ const Body = () => {
           >
             Top Rated Restaurants
           </button>
+        </div>
+        <div className="m-4 p-4 flex items-center">
+          <label>User name:</label>
+          <input
+            className="border border-black p-2"
+            value={loggedInUser}
+            onChange={(e) => setUserInfo(e.target.value)}
+          />
         </div>
       </div>
       <div className="flex flex-wrap">

@@ -1,4 +1,7 @@
 import { CDN_URL } from "../utils/constants";
+import UserContext from "../utils/UserContext";
+import { useContext } from "react";
+import User from "./User";
 
 const styleCard = {
   backgroundColor: "#f0f0f0",
@@ -6,7 +9,7 @@ const styleCard = {
 //This is a functional component.
 const RestuarantCard = (props) => {
   const { resData } = props;
-
+  const { loggedInUser } = useContext(UserContext);
   const { cloudinaryImageId, name, cuisines, avgRating, costForTwo, sla } =
     resData;
   return (
@@ -21,6 +24,7 @@ const RestuarantCard = (props) => {
       <h4>{avgRating} Stars</h4>
       <h4>{costForTwo}</h4>
       <h5>{sla.deliveryTime} Minutes </h5>
+      <h4> user : {loggedInUser}</h4>
     </div>
   );
 };
@@ -41,4 +45,5 @@ export const withPromotedLabel = (RestaurantCard) => {
     );
   };
 };
+
 export default RestuarantCard;

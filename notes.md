@@ -682,3 +682,49 @@ Cons: with more styling added, the jsx/html code may appear clumsy.
 ->Higher order component is a function that take a component as input and enhances/ change it a bit and returns a component as output.
 
 -> Ui Layer will be powered by the data layer.
+
+# Controlled Component: The component which is controlled by it's parent componet.
+
+# UnControlled Component: The componet which is controlled by itself rather than the parent.
+
+-> Lifting the state up: https://react.dev/learn/sharing-state-between-components
+
+# Props Drilling:
+
+    -> Sending data from parent component to it's children and so on.
+    -> we cannot skip the intermediate component to send props to lower component.
+    -> This makes Props Drilling verbose and inconvenient.
+
+-> This brings in the need of global data, which can be accessed by any component.
+
+# React context:
+
+import { createContext } from "react";
+
+const UserContext = createContext({
+loggedInUser: "Default User",
+});
+
+export default UserContext;
+
+-> To access, the context, react provides a hook useContext.
+-> Import it from react and also the context component you want to access.
+-> Then access it like below:
+const { loggedInUser } = useContext(UserContext);
+
+# To set new value to context we have to use .provider and wrap around the components in APP.js level (I have tried wrapping in the component's jsx, but it is overridden from the value at App.js level)
+
+return (
+<UserContext.Provider value={{ loggedInUser: "hello" }}>
+
+<div className="app">
+{console.log(<Body />)}
+<UserContext.Provider value={{ loggedInUser: userInfo }}>
+<Header />
+</UserContext.Provider>
+<Outlet />
+</div>
+</UserContext.Provider>
+);
+
+-> In the above example the user name context of entire app is set to hello, and only for header I have set a different value.
